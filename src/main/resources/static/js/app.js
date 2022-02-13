@@ -4,8 +4,8 @@ $(document).ready(function () {
             type: 'POST',
             url: '/api/v1/nba/init',
             data: JSON.stringify({
-                'homeTeam': $("#nbaHomeSelectListId").find(":selected").text(),
-                'awayTeam': $("#nbaAwaySelectListId").find(":selected").text()
+                'homeTeam': $("#nbaHomeSelectListId").find(":selected").val(),
+                'awayTeam': $("#nbaAwaySelectListId").find(":selected").val()
             }),
             dataType: 'json',
             contentType: 'application/json',
