@@ -3,498 +3,468 @@
 <players>
     <player>
         <id>91</id>
-        <fname>Rashard</fname>
-        <sname>Lewis</sname>
-        <offenseGamePosition>SF</offenseGamePosition>
-        <deffenseGamePosition>SF</deffenseGamePosition>
-        <defaultGamePosition>SF</defaultGamePosition>
+        <name>Rashard Lewis</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>85</totalrank>
-            <inscore>80</inscore>
-            <mediumshot>82</mediumshot>
-            <threeshoot>77</threeshoot>
-            <freethrow>81</freethrow>
+        <characteristics>
+            <totalRank>85</totalRank>
+            <insideScore>80</insideScore>
+            <mediumShot>82</mediumShot>
+            <threeShot>77</threeShot>
+            <freeThrow>81</freeThrow>
             <dunk>75</dunk>
             <pass>45</pass>
-            <ballsecuirity>80</ballsecuirity>
+            <ballSecurity>80</ballSecurity>
             <block>23</block>
             <steal>65</steal>
-            <ofrebound>24</ofrebound>
-            <defrebound>60</defrebound>
-            <stamina>50</stamina>
-            <defenseonball>72</defenseonball>
-            <currentStamina>50</currentStamina>
-        </individualskills>
+            <ofRebound>24</ofRebound>
+            <defRebound>60</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>72</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>B</insidescore>
-            <outsidescore>B</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>B</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>B</mediumscore>
-        </mentalskills>
+            <athleticism>B</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
     <player>
         <id>92</id>
-        <fname>Johan</fname>
-        <sname>Petro</sname>
-        <offenseGamePosition>C</offenseGamePosition>
-        <deffenseGamePosition>C</deffenseGamePosition>
-        <defaultGamePosition>C</defaultGamePosition>
+        <name>Johan Petro</name>
+        <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>72</totalrank>
-            <inscore>73</inscore>
-            <mediumshot>23</mediumshot>
-            <threeshoot>1</threeshoot>
-            <freethrow>63</freethrow>
+        <characteristics>
+            <totalRank>72</totalRank>
+            <insideScore>73</insideScore>
+            <mediumShot>23</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>63</freeThrow>
             <dunk>72</dunk>
             <pass>24</pass>
-            <ballsecuirity>55</ballsecuirity>
+            <ballSecurity>55</ballSecurity>
             <block>55</block>
             <steal>45</steal>
-            <ofrebound>25</ofrebound>
-            <defrebound>52</defrebound>
-            <stamina>45</stamina>
-            <defenseonball>55</defenseonball>
-            <currentStamina>45</currentStamina>
-        </individualskills>
+            <ofRebound>25</ofRebound>
+            <defRebound>52</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>55</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>D</insidescore>
-            <outsidescore>F</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>E</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>E</mediumscore>
-        </mentalskills>
+            <athleticism>D</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
     </player>
     <player>
         <id>93</id>
-        <fname>Chris</fname>
-        <sname>Wilcox</sname>
-        <offenseGamePosition>PF</offenseGamePosition>
-        <deffenseGamePosition>PF</deffenseGamePosition>
-        <defaultGamePosition>PF</defaultGamePosition>
+        <name>Chris Wilcox</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>78</totalrank>
-            <inscore>77</inscore>
-            <mediumshot>60</mediumshot>
-            <threeshoot>1</threeshoot>
-            <freethrow>78</freethrow>
+        <characteristics>
+            <totalRank>78</totalRank>
+            <insideScore>77</insideScore>
+            <mediumShot>60</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>78</freeThrow>
             <dunk>65</dunk>
             <pass>30</pass>
-            <ballsecuirity>60</ballsecuirity>
+            <ballSecurity>60</ballSecurity>
             <block>45</block>
             <steal>44</steal>
-            <ofrebound>45</ofrebound>
-            <defrebound>70</defrebound>
-            <stamina>44</stamina>
-            <defenseonball>60</defenseonball>
-            <currentStamina>44</currentStamina>
-        </individualskills>
+            <ofRebound>45</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>54</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>54</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>F</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>E</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>D</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>LEFT_0</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
     </player>
     <player>
         <id>94</id>
-        <fname>Ray</fname>
-        <sname>Allen</sname>
-        <offenseGamePosition>SG</offenseGamePosition>
-        <deffenseGamePosition>SG</deffenseGamePosition>
-        <defaultGamePosition>SG</defaultGamePosition>
+        <name>Ray Allen</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>91</totalrank>
-            <inscore>80</inscore>
-            <mediumshot>88</mediumshot>
-            <threeshoot>91</threeshoot>
-            <freethrow>92</freethrow>
+        <characteristics>
+            <totalRank>91</totalRank>
+            <insideScore>80</insideScore>
+            <mediumShot>88</mediumShot>
+            <threeShot>91</threeShot>
+            <freeThrow>92</freeThrow>
             <dunk>70</dunk>
             <pass>45</pass>
-            <ballsecuirity>83</ballsecuirity>
+            <ballSecurity>83</ballSecurity>
             <block>34</block>
             <steal>55</steal>
-            <ofrebound>22</ofrebound>
-            <defrebound>55</defrebound>
-            <stamina>50</stamina>
-            <defenseonball>78</defenseonball>
-            <currentStamina>50</currentStamina>
-        </individualskills>
+            <ofRebound>22</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>78</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
-        <mentalskills>
-            <insidescore>B</insidescore>
-            <outsidescore>A</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>C</outsidedeffense>
+        <skills>
             <iq>A</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>A</mediumscore>
-        </mentalskills>
+            <athleticism>B</athleticism>
+            <shotIq>A</shotIq>
+            <outsideScoring>A</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>95</id>
-        <fname>Luke</fname>
-        <sname>Ridnour</sname>
-        <offenseGamePosition>PG</offenseGamePosition>
-        <deffenseGamePosition>PG</deffenseGamePosition>
-        <defaultGamePosition>PG</defaultGamePosition>
+        <name>Luke Ridnour</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>75</totalrank>
-            <inscore>65</inscore>
-            <mediumshot>78</mediumshot>
-            <threeshoot>71</threeshoot>
-            <freethrow>88</freethrow>
+        <characteristics>
+            <totalRank>75</totalRank>
+            <insideScore>65</insideScore>
+            <mediumShot>78</mediumShot>
+            <threeShot>71</threeShot>
+            <freeThrow>88</freeThrow>
             <dunk>22</dunk>
             <pass>71</pass>
-            <ballsecuirity>72</ballsecuirity>
+            <ballSecurity>72</ballSecurity>
             <block>23</block>
             <steal>55</steal>
-            <ofrebound>21</ofrebound>
-            <defrebound>41</defrebound>
-            <stamina>45</stamina>
-            <defenseonball>71</defenseonball>
-            <currentStamina>45</currentStamina>
-        </individualskills>
+            <ofRebound>21</ofRebound>
+            <defRebound>41</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>71</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>D</insidescore>
-            <outsidescore>B</outsidescore>
-            <insidedeffense>D</insidedeffense>
-            <outsidedeffense>C</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>B</mediumscore>
-        </mentalskills>
+            <athleticism>D</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>96</id>
-        <fname>Nick</fname>
-        <sname>Collison</sname>
-        <offenseGamePosition>PF</offenseGamePosition>
-        <deffenseGamePosition>PF</deffenseGamePosition>
-        <defaultGamePosition>PF</defaultGamePosition>
+        <name>Nick Collison</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>71</totalrank>
-            <inscore>71</inscore>
-            <mediumshot>55</mediumshot>
-            <threeshoot>1</threeshoot>
-            <freethrow>69</freethrow>
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>71</insideScore>
+            <mediumShot>55</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>69</freeThrow>
             <dunk>55</dunk>
             <pass>35</pass>
-            <ballsecuirity>65</ballsecuirity>
+            <ballSecurity>65</ballSecurity>
             <block>45</block>
             <steal>35</steal>
-            <ofrebound>51</ofrebound>
-            <defrebound>61</defrebound>
-            <stamina>28</stamina>
-            <defenseonball>62</defenseonball>
-            <currentStamina>28</currentStamina>
-        </individualskills>
+            <ofRebound>51</ofRebound>
+            <defRebound>61</defRebound>
+            <stamina>38</stamina>
+            <defenseOnBall>62</defenseOnBall>
+            <currentStamina>38</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>E</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>E</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>D</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>E</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>LEFT_0</reboundpass>
-            <offensedeffense>RIGHT_100</offensedeffense>
-            <screenopening>RIGHT_100</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>97</id>
-        <fname>Damien</fname>
-        <sname>Wilkins</sname>
-        <offenseGamePosition>SG</offenseGamePosition>
-        <deffenseGamePosition>SG</deffenseGamePosition>
-        <defaultGamePosition>SG</defaultGamePosition>
+        <name>Damien Wilkins</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>74</totalrank>
-            <inscore>71</inscore>
-            <mediumshot>70</mediumshot>
-            <threeshoot>51</threeshoot>
-            <freethrow>84</freethrow>
+        <characteristics>
+            <totalRank>74</totalRank>
+            <insideScore>71</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>51</threeShot>
+            <freeThrow>84</freeThrow>
             <dunk>80</dunk>
             <pass>45</pass>
-            <ballsecuirity>61</ballsecuirity>
+            <ballSecurity>61</ballSecurity>
             <block>35</block>
             <steal>45</steal>
-            <ofrebound>25</ofrebound>
-            <defrebound>55</defrebound>
-            <stamina>35</stamina>
-            <defenseonball>70</defenseonball>
-            <currentStamina>35</currentStamina>
-        </individualskills>
+            <ofRebound>25</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>70</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>D</outsidescore>
-            <insidedeffense>E</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>98</id>
-        <fname>Earl</fname>
-        <sname>Watson</sname>
-        <offenseGamePosition>PG</offenseGamePosition>
-        <deffenseGamePosition>PG</deffenseGamePosition>
-        <defaultGamePosition>PG</defaultGamePosition>
+        <name>Earl Watson</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>71</totalrank>
-            <inscore>60</inscore>
-            <mediumshot>76</mediumshot>
-            <threeshoot>78</threeshoot>
-            <freethrow>73</freethrow>
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>76</mediumShot>
+            <threeShot>78</threeShot>
+            <freeThrow>73</freeThrow>
             <dunk>14</dunk>
             <pass>55</pass>
-            <ballsecuirity>72</ballsecuirity>
+            <ballSecurity>72</ballSecurity>
             <block>10</block>
             <steal>35</steal>
-            <ofrebound>11</ofrebound>
-            <defrebound>42</defrebound>
-            <stamina>30</stamina>
-            <defenseonball>61</defenseonball>
-            <currentStamina>30</currentStamina>
-        </individualskills>
+            <ofRebound>11</ofRebound>
+            <defRebound>42</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>61</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>D</insidescore>
-            <outsidescore>B</outsidescore>
-            <insidedeffense>D</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
     
     <player>
         <id>99</id>
-        <fname>Robert</fname>
-        <sname>Swift</sname>
-        <offenseGamePosition>C</offenseGamePosition>
-        <deffenseGamePosition>C</deffenseGamePosition>
-        <defaultGamePosition>C</defaultGamePosition>
+        <name>Robert Swift</name>
+        <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>67</totalrank>
-            <inscore>75</inscore>
-            <mediumshot>35</mediumshot>
-            <threeshoot>1</threeshoot>
-            <freethrow>52</freethrow>
+        <characteristics>
+            <totalRank>67</totalRank>
+            <insideScore>75</insideScore>
+            <mediumShot>35</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>52</freeThrow>
             <dunk>61</dunk>
             <pass>23</pass>
-            <ballsecuirity>55</ballsecuirity>
+            <ballSecurity>55</ballSecurity>
             <block>70</block>
             <steal>41</steal>
-            <ofrebound>45</ofrebound>
-            <defrebound>70</defrebound>
-            <stamina>30</stamina>
-            <defenseonball>55</defenseonball>
-            <currentStamina>30</currentStamina>
-        </individualskills>
+            <ofRebound>45</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>55</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>F</outsidescore>
-            <insidedeffense>D</insidedeffense>
-            <outsidedeffense>F</outsidedeffense>
+        <skills>
             <iq>D</iq>
-            <mediumdeffense>E</mediumdeffense>
-            <mediumscore>E</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>LEFT_0</insideoutside>
-            <reboundpass>LEFT_0</reboundpass>
-            <offensedeffense>RIGHT_100</offensedeffense>
-            <screenopening>LEFT_0</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
     </player>
     
     <player>
         <id>100</id>
-        <fname>Vladimir</fname>
-        <sname>Radmanovic</sname>
-        <offenseGamePosition>SF</offenseGamePosition>
-        <deffenseGamePosition>SF</deffenseGamePosition>
-        <defaultGamePosition>SF</defaultGamePosition>
+        <name>Vladimir Radmanovic</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>71</totalrank>
-            <inscore>70</inscore>
-            <mediumshot>70</mediumshot>
-            <threeshoot>70</threeshoot>
-            <freethrow>90</freethrow>
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>70</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>70</threeShot>
+            <freeThrow>90</freeThrow>
             <dunk>60</dunk>
             <pass>42</pass>
-            <ballsecuirity>70</ballsecuirity>
+            <ballSecurity>70</ballSecurity>
             <block>32</block>
             <steal>55</steal>
-            <ofrebound>34</ofrebound>
-            <defrebound>60</defrebound>
-            <stamina>35</stamina>
-            <defenseonball>67</defenseonball>
-            <currentStamina>35</currentStamina>
-        </individualskills>
+            <ofRebound>34</ofRebound>
+            <defRebound>60</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>67</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>10</id>
             <name>Seattle</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>C</outsidescore>
-            <insidedeffense>E</insidedeffense>
-            <outsidedeffense>E</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
    

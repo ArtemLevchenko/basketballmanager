@@ -8,7 +8,7 @@
             <name>New Jersey</name>
         </team>
         <coachGamePlan>
-            <insideoutside>BALANCE</insideoutside>
+            <insideOutside>BALANCE</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
         </coachGamePlan>
     </coach>

@@ -348,7 +348,7 @@
             <ofRebound>23</ofRebound>
             <defRebound>50</defRebound>
             <stamina>40</stamina>
-            <defenseonball>55</defenseonball>
+            <defenseOnBall>55</defenseOnBall>
             <currentStamina>40</currentStamina>
         </characteristics>
         <!-- -->

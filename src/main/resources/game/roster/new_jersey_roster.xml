@@ -3,498 +3,468 @@
 <players>
     <player>
         <id>81</id>
-        <fname>Richard</fname>
-        <sname>Jefferson</sname>
-        <offenseGamePosition>SF</offenseGamePosition>
-        <deffenseGamePosition>SF</deffenseGamePosition>
-        <defaultGamePosition>SF</defaultGamePosition>
+        <name>Richard Jefferson</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>81</totalrank>
-            <inscore>76</inscore>
-            <mediumshot>77</mediumshot>
-            <threeshoot>70</threeshoot>
-            <freethrow>81</freethrow>
+        <characteristics>
+            <totalRank>81</totalRank>
+            <insideScore>76</insideScore>
+            <mediumShot>77</mediumShot>
+            <threeShot>70</threeShot>
+            <freeThrow>81</freeThrow>
             <dunk>75</dunk>
             <pass>55</pass>
-            <ballsecuirity>75</ballsecuirity>
+            <ballSecurity>75</ballSecurity>
             <block>31</block>
             <steal>45</steal>
-            <ofrebound>34</ofrebound>
-            <defrebound>60</defrebound>
-            <stamina>50</stamina>
-            <defenseonball>75</defenseonball>
-            <currentStamina>50</currentStamina>
-        </individualskills>
+            <ofRebound>34</ofRebound>
+            <defRebound>60</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>75</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>C</outsidescore>
-            <insidedeffense>D</insidedeffense>
-            <outsidedeffense>C</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>B</mediumdeffense>
-            <mediumscore>B</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
     <player>
         <id>82</id>
-        <fname>Nenad</fname>
-        <sname>Krstic</sname>
-        <offenseGamePosition>C</offenseGamePosition>
-        <deffenseGamePosition>C</deffenseGamePosition>
-        <defaultGamePosition>C</defaultGamePosition>
+        <name>Nenad Krstic</name>
+        <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>77</totalrank>
-            <inscore>71</inscore>
-            <mediumshot>68</mediumshot>
-            <threeshoot>34</threeshoot>
-            <freethrow>69</freethrow>
+        <characteristics>
+            <totalRank>77</totalRank>
+            <insideScore>71</insideScore>
+            <mediumShot>68</mediumShot>
+            <threeShot>34</threeShot>
+            <freeThrow>69</freeThrow>
             <dunk>75</dunk>
             <pass>34</pass>
-            <ballsecuirity>57</ballsecuirity>
+            <ballSecurity>57</ballSecurity>
             <block>55</block>
             <steal>22</steal>
-            <ofrebound>25</ofrebound>
-            <defrebound>57</defrebound>
-            <stamina>45</stamina>
-            <defenseonball>64</defenseonball>
-            <currentStamina>45</currentStamina>
-        </individualskills>
+            <ofRebound>25</ofRebound>
+            <defRebound>57</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>64</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>D</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
     <player>
         <id>83</id>
-        <fname>Jason</fname>
-        <sname>Collins</sname>
-        <offenseGamePosition>PF</offenseGamePosition>
-        <deffenseGamePosition>PF</deffenseGamePosition>
-        <defaultGamePosition>PF</defaultGamePosition>
+        <name>Jason Collins</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>68</totalrank>
-            <inscore>70</inscore>
-            <mediumshot>21</mediumshot>
-            <threeshoot>1</threeshoot>
-            <freethrow>57</freethrow>
+        <characteristics>
+            <totalRank>68</totalRank>
+            <insideScore>70</insideScore>
+            <mediumShot>21</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>57</freeThrow>
             <dunk>71</dunk>
             <pass>22</pass>
-            <ballsecuirity>56</ballsecuirity>
+            <ballSecurity>56</ballSecurity>
             <block>41</block>
             <steal>32</steal>
-            <ofrebound>24</ofrebound>
-            <defrebound>56</defrebound>
-            <stamina>45</stamina>
-            <defenseonball>68</defenseonball>
-            <currentStamina>45</currentStamina>
-        </individualskills>
+            <ofRebound>24</ofRebound>
+            <defRebound>56</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>68</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>F</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>F</outsidedeffense>
+        <skills>
             <iq>F</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>E</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>LEFT_0</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
     <player>
         <id>84</id>
-        <fname>Vince</fname>
-        <sname>Carter</sname>
-        <offenseGamePosition>SG</offenseGamePosition>
-        <deffenseGamePosition>SG</deffenseGamePosition>
-        <defaultGamePosition>SG</defaultGamePosition>
+        <name>Vince Carter</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>90</totalrank>
-            <inscore>81</inscore>
-            <mediumshot>80</mediumshot>
-            <threeshoot>75</threeshoot>
-            <freethrow>80</freethrow>
+        <characteristics>
+            <totalRank>90</totalRank>
+            <insideScore>81</insideScore>
+            <mediumShot>80</mediumShot>
+            <threeShot>75</threeShot>
+            <freeThrow>80</freeThrow>
             <dunk>98</dunk>
             <pass>60</pass>
-            <ballsecuirity>80</ballsecuirity>
+            <ballSecurity>80</ballSecurity>
             <block>45</block>
             <steal>60</steal>
-            <ofrebound>34</ofrebound>
-            <defrebound>68</defrebound>
-            <stamina>50</stamina>
-            <defenseonball>81</defenseonball>
-            <currentStamina>50</currentStamina>
-        </individualskills>
+            <ofRebound>34</ofRebound>
+            <defRebound>68</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>81</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
-        <mentalskills>
-            <insidescore>B</insidescore>
-            <outsidescore>B</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>B</outsidedeffense>
+        <skills>
             <iq>A</iq>
-            <mediumdeffense>B</mediumdeffense>
-            <mediumscore>A</mediumscore>
-        </mentalskills>
+            <athleticism>B</athleticism>
+            <shotIq>A</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>85</id>
-        <fname>Jason</fname>
-        <sname>Kidd</sname>
-        <offenseGamePosition>PG</offenseGamePosition>
-        <deffenseGamePosition>PG</deffenseGamePosition>
-        <defaultGamePosition>PG</defaultGamePosition>
+        <name>Jason Kidd</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>88</totalrank>
-            <inscore>80</inscore>
-            <mediumshot>85</mediumshot>
-            <threeshoot>70</threeshoot>
-            <freethrow>69</freethrow>
+        <characteristics>
+            <totalRank>88</totalRank>
+            <insideScore>80</insideScore>
+            <mediumShot>85</mediumShot>
+            <threeShot>70</threeShot>
+            <freeThrow>69</freeThrow>
             <dunk>22</dunk>
             <pass>90</pass>
-            <ballsecuirity>90</ballsecuirity>
+            <ballSecurity>90</ballSecurity>
             <block>33</block>
             <steal>66</steal>
-            <ofrebound>44</ofrebound>
-            <defrebound>70</defrebound>
-            <stamina>45</stamina>
-            <defenseonball>83</defenseonball>
-            <currentStamina>45</currentStamina>
-        </individualskills>
+            <ofRebound>44</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>83</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>B</insidescore>
-            <outsidescore>C</outsidescore>
-            <insidedeffense>B</insidedeffense>
-            <outsidedeffense>A</outsidedeffense>
+        <skills>
             <iq>A</iq>
-            <mediumdeffense>B</mediumdeffense>
-            <mediumscore>A</mediumscore>
-        </mentalskills>
+            <athleticism>B</athleticism>
+            <shotIq>A</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>B</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>A</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>86</id>
-        <fname>Clifford</fname>
-        <sname>Robinson</sname>
-        <offenseGamePosition>PF</offenseGamePosition>
-        <deffenseGamePosition>PF</deffenseGamePosition>
-        <defaultGamePosition>PF</defaultGamePosition>
+        <name>Clifford Robinson</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>75</totalrank>
-            <inscore>75</inscore>
-            <mediumshot>45</mediumshot>
-            <threeshoot>1</threeshoot>
-            <freethrow>68</freethrow>
+        <characteristics>
+            <totalRank>75</totalRank>
+            <insideScore>75</insideScore>
+            <mediumShot>45</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>68</freeThrow>
             <dunk>55</dunk>
             <pass>11</pass>
-            <ballsecuirity>60</ballsecuirity>
+            <ballSecurity>60</ballSecurity>
             <block>55</block>
             <steal>22</steal>
-            <ofrebound>41</ofrebound>
-            <defrebound>61</defrebound>
-            <stamina>25</stamina>
-            <defenseonball>59</defenseonball>
-            <currentStamina>25</currentStamina>
-        </individualskills>
+            <ofRebound>41</ofRebound>
+            <defRebound>61</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>59</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>F</outsidescore>
-            <insidedeffense>C</insidedeffense>
-            <outsidedeffense>F</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>E</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>LEFT_0</reboundpass>
-            <offensedeffense>RIGHT_100</offensedeffense>
-            <screenopening>RIGHT_100</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>87</id>
-        <fname>Jeff</fname>
-        <sname>McInnis</sname>
-        <offenseGamePosition>SG</offenseGamePosition>
-        <deffenseGamePosition>SG</deffenseGamePosition>
-        <defaultGamePosition>SG</defaultGamePosition>
+        <name>Jeff McInnis</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>71</totalrank>
-            <inscore>75</inscore>
-            <mediumshot>70</mediumshot>
-            <threeshoot>60</threeshoot>
-            <freethrow>71</freethrow>
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>75</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>71</freeThrow>
             <dunk>36</dunk>
             <pass>51</pass>
-            <ballsecuirity>65</ballsecuirity>
+            <ballSecurity>65</ballSecurity>
             <block>10</block>
             <steal>55</steal>
-            <ofrebound>13</ofrebound>
-            <defrebound>52</defrebound>
-            <stamina>31</stamina>
-            <defenseonball>62</defenseonball>
-            <currentStamina>31</currentStamina>
-        </individualskills>
+            <ofRebound>13</ofRebound>
+            <defRebound>52</defRebound>
+            <stamina>41</stamina>
+            <defenseOnBall>62</defenseOnBall>
+            <currentStamina>41</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>E</insidescore>
-            <outsidescore>D</outsidescore>
-            <insidedeffense>E</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>C</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>E</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
     <player>
         <id>88</id>
-        <fname>Jacque</fname>
-        <sname>Vaughn</sname>
-        <offenseGamePosition>PG</offenseGamePosition>
-        <deffenseGamePosition>PG</deffenseGamePosition>
-        <defaultGamePosition>PG</defaultGamePosition>
+        <name>Jacque Vaughn</name>
+        <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>65</totalrank>
-            <inscore>60</inscore>
-            <mediumshot>71</mediumshot>
-            <threeshoot>55</threeshoot>
-            <freethrow>73</freethrow>
+        <characteristics>
+            <totalRank>65</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>71</mediumShot>
+            <threeShot>55</threeShot>
+            <freeThrow>73</freeThrow>
             <dunk>24</dunk>
             <pass>41</pass>
-            <ballsecuirity>65</ballsecuirity>
+            <ballSecurity>65</ballSecurity>
             <block>10</block>
             <steal>43</steal>
-            <ofrebound>11</ofrebound>
-            <defrebound>41</defrebound>
-            <stamina>29</stamina>
-            <defenseonball>62</defenseonball>
-            <currentStamina>29</currentStamina>
-        </individualskills>
+            <ofRebound>11</ofRebound>
+            <defRebound>41</defRebound>
+            <stamina>39</stamina>
+            <defenseOnBall>62</defenseOnBall>
+            <currentStamina>39</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>E</insidescore>
-            <outsidescore>E</outsidescore>
-            <insidedeffense>D</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>A</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>D</mediumscore>
-        </mentalskills>
+            <athleticism>E</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>E</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
     
     <player>
         <id>89</id>
-        <fname>Scott</fname>
-        <sname>Padgett</sname>
-        <offenseGamePosition>C</offenseGamePosition>
-        <deffenseGamePosition>C</deffenseGamePosition>
-        <defaultGamePosition>C</defaultGamePosition>
+        <name>Scott Padgett</name>
+        <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>70</totalrank>
-            <inscore>71</inscore>
-            <mediumshot>60</mediumshot>
-            <threeshoot>60</threeshoot>
-            <freethrow>80</freethrow>
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>71</insideScore>
+            <mediumShot>60</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>80</freeThrow>
             <dunk>61</dunk>
             <pass>22</pass>
-            <ballsecuirity>60</ballsecuirity>
+            <ballSecurity>60</ballSecurity>
             <block>41</block>
             <steal>27</steal>
-            <ofrebound>21</ofrebound>
-            <defrebound>45</defrebound>
-            <stamina>30</stamina>
-            <defenseonball>51</defenseonball>
-            <currentStamina>30</currentStamina>
-        </individualskills>
+            <ofRebound>21</ofRebound>
+            <defRebound>45</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>51</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>C</insidescore>
-            <outsidescore>C</outsidescore>
-            <insidedeffense>E</insidedeffense>
-            <outsidedeffense>F</outsidedeffense>
+        <skills>
             <iq>D</iq>
-            <mediumdeffense>D</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>LEFT_0</insideoutside>
-            <reboundpass>LEFT_0</reboundpass>
-            <offensedeffense>RIGHT_100</offensedeffense>
-            <screenopening>LEFT_0</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
     </player>
     
     <player>
         <id>90</id>
-        <fname>Bostjan</fname>
-        <sname>Nachbar</sname>
-        <offenseGamePosition>SF</offenseGamePosition>
-        <deffenseGamePosition>SF</deffenseGamePosition>
-        <defaultGamePosition>SF</defaultGamePosition>
+        <name>Bostjan Nachbar</name>
+        <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
         <!-- -->
-        <individualskills>
-            <totalrank>71</totalrank>
-            <inscore>65</inscore>
-            <mediumshot>70</mediumshot>
-            <threeshoot>54</threeshoot>
-            <freethrow>67</freethrow>
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>65</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>54</threeShot>
+            <freeThrow>67</freeThrow>
             <dunk>34</dunk>
             <pass>50</pass>
-            <ballsecuirity>61</ballsecuirity>
+            <ballSecurity>61</ballSecurity>
             <block>10</block>
             <steal>35</steal>
-            <ofrebound>21</ofrebound>
-            <defrebound>44</defrebound>
-            <stamina>31</stamina>
-            <defenseonball>61</defenseonball>
-            <currentStamina>31</currentStamina>
-        </individualskills>
+            <ofRebound>21</ofRebound>
+            <defRebound>44</defRebound>
+            <stamina>41</stamina>
+            <defenseOnBall>61</defenseOnBall>
+            <currentStamina>41</currentStamina>
+        </characteristics>
         <!-- -->
         <team>
             <id>9</id>
             <name>New Jersey</name>
         </team>
         <!-- -->
-        <mentalskills>
-            <insidescore>D</insidescore>
-            <outsidescore>C</outsidescore>
-            <insidedeffense>E</insidedeffense>
-            <outsidedeffense>D</outsidedeffense>
+        <skills>
             <iq>D</iq>
-            <mediumdeffense>C</mediumdeffense>
-            <mediumscore>C</mediumscore>
-        </mentalskills>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
         <!-- -->
-        <playercondition>
-            <insideoutside>BALANCE_50</insideoutside>
-            <reboundpass>BALANCE_50</reboundpass>
-            <offensedeffense>BALANCE_50</offensedeffense>
-            <screenopening>BALANCE_50</screenopening>
-        </playercondition>
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
     </player>
 
    
