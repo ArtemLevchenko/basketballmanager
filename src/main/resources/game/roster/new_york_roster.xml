@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+
+    <player>
+        <id>11</id>
+        <fname>Jalen</fname>
+        <sname>Rose</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>78</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>70</mediumshot>
+            <threeshoot>58</threeshoot>
+            <freethrow>81</freethrow>
+            <dunk>80</dunk>
+            <pass>40</pass>
+            <ballsecuirity>67</ballsecuirity>
+            <block>10</block>
+            <steal>40</steal>
+            <ofrebound>30</ofrebound>
+            <defrebound>60</defrebound>
+            <stamina>30</stamina>
+            <defenseonball>65</defenseonball>
+            <currentStamina>30</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>LEFT_0</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>12</id>
+        <fname>Eddy</fname>
+        <sname>Curry</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>74</totalrank>
+            <inscore>80</inscore>
+            <mediumshot>30</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>64</freethrow>
+            <dunk>80</dunk>
+            <pass>20</pass>
+            <ballsecuirity>35</ballsecuirity>
+            <block>50</block>
+            <steal>20</steal>
+            <ofrebound>60</ofrebound>
+            <defrebound>78</defrebound>
+            <stamina>28</stamina>
+            <defenseonball>40</defenseonball>
+            <currentStamina>28</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>E</mediumdeffense>
+            <mediumscore>D</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>13</id>
+        <fname>Channing</fname>
+        <sname>Frye</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>71</totalrank>
+            <inscore>75</inscore>
+            <mediumshot>68</mediumshot>
+            <threeshoot>60</threeshoot>
+            <freethrow>73</freethrow>
+            <dunk>65</dunk>
+            <pass>40</pass>
+            <ballsecuirity>50</ballsecuirity>
+            <block>64</block>
+            <steal>35</steal>
+            <ofrebound>70</ofrebound>
+            <defrebound>75</defrebound>
+            <stamina>35</stamina>
+            <defenseonball>50</defenseonball>
+            <currentStamina>35</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>14</id>
+        <fname>Steve</fname>
+        <sname>Francis</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>82</totalrank>
+            <inscore>80</inscore>
+            <mediumshot>75</mediumshot>
+            <threeshoot>61</threeshoot>
+            <freethrow>84</freethrow>
+            <dunk>87</dunk>
+            <pass>70</pass>
+            <ballsecuirity>80</ballsecuirity>
+            <block>50</block>
+            <steal>85</steal>
+            <ofrebound>20</ofrebound>
+            <defrebound>68</defrebound>
+            <stamina>35</stamina>
+            <defenseonball>83</defenseonball>
+            <currentStamina>35</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>A</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>B</insidedeffense>
+            <outsidedeffense>A</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>15</id>
+        <fname>Stephon</fname>
+        <sname>Marbury</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>86</totalrank>
+            <inscore>80</inscore>
+            <mediumshot>76</mediumshot>
+            <threeshoot>70</threeshoot>
+            <freethrow>82</freethrow>
+            <dunk>30</dunk>
+            <pass>74</pass>
+            <ballsecuirity>78</ballsecuirity>
+            <block>30</block>
+            <steal>60</steal>
+            <ofrebound>20</ofrebound>
+            <defrebound>60</defrebound>
+            <stamina>43</stamina>
+            <defenseonball>78</defenseonball>
+            <currentStamina>43</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>A</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>B</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>16</id>
+        <fname>David</fname>
+        <sname>Lee</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>63</totalrank>
+            <inscore>62</inscore>
+            <mediumshot>60</mediumshot>
+            <threeshoot>20</threeshoot>
+            <freethrow>71</freethrow>
+            <dunk>60</dunk>
+            <pass>10</pass>
+            <ballsecuirity>41</ballsecuirity>
+            <block>50</block>
+            <steal>10</steal>
+            <ofrebound>58</ofrebound>
+            <defrebound>80</defrebound>
+            <stamina>20</stamina>
+            <defenseonball>40</defenseonball>
+            <currentStamina>20</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>E</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>E</iq>
+            <mediumdeffense>E</mediumdeffense>
+            <mediumscore>E</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>17</id>
+        <fname>Jamal</fname>
+        <sname>Crawford</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>78</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>80</mediumshot>
+            <threeshoot>74</threeshoot>
+            <freethrow>82</freethrow>
+            <dunk>64</dunk>
+            <pass>60</pass>
+            <ballsecuirity>63</ballsecuirity>
+            <block>10</block>
+            <steal>45</steal>
+            <ofrebound>10</ofrebound>
+            <defrebound>55</defrebound>
+            <stamina>40</stamina>
+            <defenseonball>50</defenseonball>
+            <currentStamina>40</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>A</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+
+
+    <player>
+        <id>18</id>
+        <fname>Nate</fname>
+        <sname>Robinson</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>70</totalrank>
+            <inscore>63</inscore>
+            <mediumshot>69</mediumshot>
+            <threeshoot>65</threeshoot>
+            <freethrow>71</freethrow>
+            <dunk>99</dunk>
+            <pass>55</pass>
+            <ballsecuirity>74</ballsecuirity>
+            <block>20</block>
+            <steal>60</steal>
+            <ofrebound>10</ofrebound>
+            <defrebound>44</defrebound>
+            <stamina>25</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>25</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>LEFT_0</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>19</id>
+        <fname>Antonio</fname>
+        <sname>Davis</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>61</totalrank>
+            <inscore>72</inscore>
+            <mediumshot>40</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>73</freethrow>
+            <dunk>71</dunk>
+            <pass>10</pass>
+            <ballsecuirity>25</ballsecuirity>
+            <block>68</block>
+            <steal>10</steal>
+            <ofrebound>60</ofrebound>
+            <defrebound>74</defrebound>
+            <stamina>20</stamina>
+            <defenseonball>42</defenseonball>
+            <currentStamina>20</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>D</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>20</id>
+        <fname>Quentin</fname>
+        <sname>Richardson</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>77</totalrank>
+            <inscore>67</inscore>
+            <mediumshot>73</mediumshot>
+            <threeshoot>81</threeshoot>
+            <freethrow>70</freethrow>
+            <dunk>50</dunk>
+            <pass>55</pass>
+            <ballsecuirity>54</ballsecuirity>
+            <block>10</block>
+            <steal>60</steal>
+            <ofrebound>14</ofrebound>
+            <defrebound>60</defrebound>
+            <stamina>30</stamina>
+            <defenseonball>60</defenseonball>
+            <currentStamina>30</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>A</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>RIGHT_100</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>LEFT_0</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+</players>

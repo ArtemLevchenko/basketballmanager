@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+        <id>61</id>
+        <fname>Shawn</fname>
+        <sname>Marion</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>86</totalrank>
+            <inscore>87</inscore>
+            <mediumshot>74</mediumshot>
+            <threeshoot>60</threeshoot>
+            <freethrow>81</freethrow>
+            <dunk>90</dunk>
+            <pass>41</pass>
+            <ballsecuirity>78</ballsecuirity>
+            <block>82</block>
+            <steal>83</steal>
+            <ofrebound>44</ofrebound>
+            <defrebound>80</defrebound>
+            <stamina>50</stamina>
+            <defenseonball>81</defenseonball>
+            <currentStamina>50</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>A</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>B</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>A</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>LEFT_0</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>62</id>
+        <fname>Boris</fname>
+        <sname>Diaw</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>71</totalrank>
+            <inscore>72</inscore>
+            <mediumshot>70</mediumshot>
+            <threeshoot>60</threeshoot>
+            <freethrow>73</freethrow>
+            <dunk>71</dunk>
+            <pass>60</pass>
+            <ballsecuirity>65</ballsecuirity>
+            <block>55</block>
+            <steal>50</steal>
+            <ofrebound>30</ofrebound>
+            <defrebound>55</defrebound>
+            <stamina>40</stamina>
+            <defenseonball>67</defenseonball>
+            <currentStamina>40</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>63</id>
+        <fname>Amare</fname>
+        <sname>Stoudemire</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>88</totalrank>
+            <inscore>85</inscore>
+            <mediumshot>73</mediumshot>
+            <threeshoot>10</threeshoot>
+            <freethrow>85</freethrow>
+            <dunk>91</dunk>
+            <pass>35</pass>
+            <ballsecuirity>65</ballsecuirity>
+            <block>83</block>
+            <steal>60</steal>
+            <ofrebound>61</ofrebound>
+            <defrebound>70</defrebound>
+            <stamina>45</stamina>
+            <defenseonball>71</defenseonball>
+            <currentStamina>45</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>A</insidescore>
+            <outsidescore>E</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>64</id>
+        <fname>Raja</fname>
+        <sname>Bell</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>73</totalrank>
+            <inscore>65</inscore>
+            <mediumshot>77</mediumshot>
+            <threeshoot>75</threeshoot>
+            <freethrow>79</freethrow>
+            <dunk>50</dunk>
+            <pass>44</pass>
+            <ballsecuirity>70</ballsecuirity>
+            <block>20</block>
+            <steal>66</steal>
+            <ofrebound>10</ofrebound>
+            <defrebound>44</defrebound>
+            <stamina>40</stamina>
+            <defenseonball>85</defenseonball>
+            <currentStamina>40</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <mentalskills>
+            <insidescore>D</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>LEFT_0</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>65</id>
+        <fname>Steve</fname>
+        <sname>Nash</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>91</totalrank>
+            <inscore>80</inscore>
+            <mediumshot>85</mediumshot>
+            <threeshoot>90</threeshoot>
+            <freethrow>92</freethrow>
+            <dunk>10</dunk>
+            <pass>90</pass>
+            <ballsecuirity>91</ballsecuirity>
+            <block>13</block>
+            <steal>75</steal>
+            <ofrebound>20</ofrebound>
+            <defrebound>57</defrebound>
+            <stamina>50</stamina>
+            <defenseonball>71</defenseonball>
+            <currentStamina>50</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>A</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>A</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>A</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>66</id>
+        <fname>Tim</fname>
+        <sname>Thomas</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>71</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>70</mediumshot>
+            <threeshoot>74</threeshoot>
+            <freethrow>65</freethrow>
+            <dunk>72</dunk>
+            <pass>21</pass>
+            <ballsecuirity>56</ballsecuirity>
+            <block>54</block>
+            <steal>21</steal>
+            <ofrebound>32</ofrebound>
+            <defrebound>57</defrebound>
+            <stamina>33</stamina>
+            <defenseonball>51</defenseonball>
+            <currentStamina>33</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>E</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>67</id>
+        <fname>Leandro</fname>
+        <sname>Barbosa</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>75</totalrank>
+            <inscore>71</inscore>
+            <mediumshot>75</mediumshot>
+            <threeshoot>71</threeshoot>
+            <freethrow>75</freethrow>
+            <dunk>33</dunk>
+            <pass>50</pass>
+            <ballsecuirity>55</ballsecuirity>
+            <block>10</block>
+            <steal>60</steal>
+            <ofrebound>20</ofrebound>
+            <defrebound>42</defrebound>
+            <stamina>34</stamina>
+            <defenseonball>64</defenseonball>
+            <currentStamina>34</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>D</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>68</id>
+        <fname>Eddie</fname>
+        <sname>House</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>71</totalrank>
+            <inscore>63</inscore>
+            <mediumshot>73</mediumshot>
+            <threeshoot>76</threeshoot>
+            <freethrow>81</freethrow>
+            <dunk>34</dunk>
+            <pass>56</pass>
+            <ballsecuirity>57</ballsecuirity>
+            <block>10</block>
+            <steal>55</steal>
+            <ofrebound>22</ofrebound>
+            <defrebound>43</defrebound>
+            <stamina>28</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>28</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>E</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    
+    <player>
+        <id>69</id>
+        <fname>Kurt</fname>
+        <sname>Thomas</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>73</totalrank>
+            <inscore>79</inscore>
+            <mediumshot>57</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>82</freethrow>
+            <dunk>78</dunk>
+            <pass>20</pass>
+            <ballsecuirity>45</ballsecuirity>
+            <block>63</block>
+            <steal>24</steal>
+            <ofrebound>47</ofrebound>
+            <defrebound>76</defrebound>
+            <stamina>30</stamina>
+            <defenseonball>51</defenseonball>
+            <currentStamina>30</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>E</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>RIGHT_100</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+    
+    <player>
+        <id>70</id>
+        <fname>James</fname>
+        <sname>Jones</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>65</totalrank>
+            <inscore>60</inscore>
+            <mediumshot>75</mediumshot>
+            <threeshoot>80</threeshoot>
+            <freethrow>85</freethrow>
+            <dunk>50</dunk>
+            <pass>41</pass>
+            <ballsecuirity>58</ballsecuirity>
+            <block>10</block>
+            <steal>42</steal>
+            <ofrebound>26</ofrebound>
+            <defrebound>58</defrebound>
+            <stamina>33</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>33</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>D</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>F</insidedeffense>
+            <outsidedeffense>E</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+   
+</players>

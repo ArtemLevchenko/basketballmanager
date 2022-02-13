@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>1</id>
+        <name>Mike Brown</name>
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

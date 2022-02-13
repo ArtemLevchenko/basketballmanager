@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<teams>
+    <team>
+        <id>1</id>
+        <name>Cleveland</name>
+    </team>
+    <team>
+        <id>2</id>
+        <name>New York</name>
+    </team>
+    <team>
+        <id>3</id>
+        <name>Miami</name>
+    </team>
+    <team>
+        <id>4</id>
+        <name>Detroit</name>
+    </team>
+    <team>
+        <id>5</id>
+        <name>San Antonio</name>
+    </team>
+    <team>
+        <id>6</id>
+        <name>Phoenix</name>
+    </team>
+    <team>
+        <id>7</id>
+        <name>Houston</name>
+    </team>
+    <team>
+        <id>8</id>
+        <name>Los Angeles</name>
+    </team>
+    <team>
+        <id>9</id>
+        <name>New Jersey</name>
+    </team>
+    <team>
+        <id>10</id>
+        <name>Seattle</name>
+    </team>
+</teams>

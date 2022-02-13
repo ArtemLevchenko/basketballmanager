@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+        <id>51</id>
+        <fname>Bruce</fname>
+        <sname>Bowen</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>75</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>65</mediumshot>
+            <threeshoot>76</threeshoot>
+            <freethrow>61</freethrow>
+            <dunk>61</dunk>
+            <pass>42</pass>
+            <ballsecuirity>60</ballsecuirity>
+            <block>51</block>
+            <steal>77</steal>
+            <ofrebound>24</ofrebound>
+            <defrebound>55</defrebound>
+            <stamina>50</stamina>
+            <defenseonball>94</defenseonball>
+            <currentStamina>50</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>A</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>A</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>RIGHT_100</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>RIGHT_100</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>52</id>
+        <fname>Rasho</fname>
+        <sname>Nesterovic</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>73</totalrank>
+            <inscore>79</inscore>
+            <mediumshot>52</mediumshot>
+            <threeshoot>2</threeshoot>
+            <freethrow>62</freethrow>
+            <dunk>82</dunk>
+            <pass>20</pass>
+            <ballsecuirity>55</ballsecuirity>
+            <block>70</block>
+            <steal>35</steal>
+            <ofrebound>55</ofrebound>
+            <defrebound>70</defrebound>
+            <stamina>40</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>40</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>53</id>
+        <fname>Tim</fname>
+        <sname>Duncan</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>90</totalrank>
+            <inscore>88</inscore>
+            <mediumshot>70</mediumshot>
+            <threeshoot>34</threeshoot>
+            <freethrow>61</freethrow>
+            <dunk>75</dunk>
+            <pass>45</pass>
+            <ballsecuirity>70</ballsecuirity>
+            <block>80</block>
+            <steal>54</steal>
+            <ofrebound>70</ofrebound>
+            <defrebound>89</defrebound>
+            <stamina>45</stamina>
+            <defenseonball>79</defenseonball>
+            <currentStamina>45</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>A</insidescore>
+            <outsidescore>E</outsidescore>
+            <insidedeffense>B</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>A</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>54</id>
+        <fname>Manu</fname>
+        <sname>Ginobili</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>82</totalrank>
+            <inscore>77</inscore>
+            <mediumshot>75</mediumshot>
+            <threeshoot>70</threeshoot>
+            <freethrow>79</freethrow>
+            <dunk>80</dunk>
+            <pass>60</pass>
+            <ballsecuirity>78</ballsecuirity>
+            <block>30</block>
+            <steal>79</steal>
+            <ofrebound>20</ofrebound>
+            <defrebound>60</defrebound>
+            <stamina>45</stamina>
+            <defenseonball>79</defenseonball>
+            <currentStamina>45</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>55</id>
+        <fname>Tony</fname>
+        <sname>Parker</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>81</totalrank>
+            <inscore>90</inscore>
+            <mediumshot>74</mediumshot>
+            <threeshoot>56</threeshoot>
+            <freethrow>72</freethrow>
+            <dunk>30</dunk>
+            <pass>65</pass>
+            <ballsecuirity>78</ballsecuirity>
+            <block>23</block>
+            <steal>67</steal>
+            <ofrebound>20</ofrebound>
+            <defrebound>57</defrebound>
+            <stamina>50</stamina>
+            <defenseonball>72</defenseonball>
+            <currentStamina>50</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>A</insidescore>
+            <outsidescore>D</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>56</id>
+        <fname>Robert</fname>
+        <sname>Horry</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>74</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>65</mediumshot>
+            <threeshoot>70</threeshoot>
+            <freethrow>65</freethrow>
+            <dunk>72</dunk>
+            <pass>25</pass>
+            <ballsecuirity>50</ballsecuirity>
+            <block>73</block>
+            <steal>33</steal>
+            <ofrebound>30</ofrebound>
+            <defrebound>65</defrebound>
+            <stamina>31</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>31</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>A</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>RIGHT_100</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>57</id>
+        <fname>Michael</fname>
+        <sname>Finley</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>76</totalrank>
+            <inscore>74</inscore>
+            <mediumshot>73</mediumshot>
+            <threeshoot>70</threeshoot>
+            <freethrow>86</freethrow>
+            <dunk>67</dunk>
+            <pass>45</pass>
+            <ballsecuirity>78</ballsecuirity>
+            <block>10</block>
+            <steal>60</steal>
+            <ofrebound>30</ofrebound>
+            <defrebound>52</defrebound>
+            <stamina>36</stamina>
+            <defenseonball>70</defenseonball>
+            <currentStamina>36</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>58</id>
+        <fname>Nick</fname>
+        <sname>Van Exel</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>72</totalrank>
+            <inscore>60</inscore>
+            <mediumshot>70</mediumshot>
+            <threeshoot>73</threeshoot>
+            <freethrow>68</freethrow>
+            <dunk>34</dunk>
+            <pass>50</pass>
+            <ballsecuirity>62</ballsecuirity>
+            <block>20</block>
+            <steal>45</steal>
+            <ofrebound>10</ofrebound>
+            <defrebound>43</defrebound>
+            <stamina>25</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>25</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>E</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>F</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    
+    <player>
+        <id>59</id>
+        <fname>Nazr</fname>
+        <sname>Mohammed</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>77</totalrank>
+            <inscore>82</inscore>
+            <mediumshot>35</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>79</freethrow>
+            <dunk>78</dunk>
+            <pass>30</pass>
+            <ballsecuirity>41</ballsecuirity>
+            <block>67</block>
+            <steal>20</steal>
+            <ofrebound>45</ofrebound>
+            <defrebound>73</defrebound>
+            <stamina>40</stamina>
+            <defenseonball>52</defenseonball>
+            <currentStamina>40</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>E</mediumdeffense>
+            <mediumscore>E</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>RIGHT_100</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+    
+    <player>
+        <id>60</id>
+        <fname>Brent</fname>
+        <sname>Barry</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>68</totalrank>
+            <inscore>64</inscore>
+            <mediumshot>78</mediumshot>
+            <threeshoot>80</threeshoot>
+            <freethrow>70</freethrow>
+            <dunk>50</dunk>
+            <pass>50</pass>
+            <ballsecuirity>67</ballsecuirity>
+            <block>10</block>
+            <steal>60</steal>
+            <ofrebound>24</ofrebound>
+            <defrebound>54</defrebound>
+            <stamina>30</stamina>
+            <defenseonball>60</defenseonball>
+            <currentStamina>30</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>D</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>B</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>B</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+   
+</players>

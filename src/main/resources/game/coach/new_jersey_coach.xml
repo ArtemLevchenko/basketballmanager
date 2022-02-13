@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>9</id>
+        <name>Lawrence Frank</name>
+        <team>
+            <id>9</id>
+            <name>New Jersey</name>
+        </team>
+        <coachGamePlan>
+            <insideoutside>BALANCE</insideoutside>
+            <offenseDefense>BALANCE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>3</id>
+        <name>Pat Riley</name>
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

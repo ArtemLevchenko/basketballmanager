@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>6</id>
+        <name>Gregg Popovich</name>
+        <team>
+            <id>5</id>
+            <name>San Antonio</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

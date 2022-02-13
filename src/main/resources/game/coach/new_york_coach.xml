@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>2</id>
+        <name>Larry Brown</name>
+        <team>
+            <id>2</id>
+            <name>New York</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

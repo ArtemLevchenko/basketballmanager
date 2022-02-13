@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+        <id>71</id>
+        <name>Lamar Odom</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>81</totalRank>
+            <insideScore>83</insideScore>
+            <mediumShot>76</mediumShot>
+            <threeShot>63</threeShot>
+            <freeThrow>69</freeThrow>
+            <dunk>73</dunk>
+            <pass>55</pass>
+            <ballSecurity>78</ballSecurity>
+            <block>61</block>
+            <steal>60</steal>
+            <ofRebound>44</ofRebound>
+            <defRebound>76</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>71</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>B</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <insidedeffense>C</insidedeffense>
+            <midDefense>B</midDefense>
+            <outsidedeffense>C</outsidedeffense>
+        </skills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>LEFT_0</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>72</id>
+        <fname>Chris</fname>
+        <sname>Mihm</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>73</totalrank>
+            <inscore>78</inscore>
+            <mediumshot>43</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>65</freethrow>
+            <dunk>75</dunk>
+            <pass>21</pass>
+            <ballsecuirity>55</ballsecuirity>
+            <block>70</block>
+            <steal>20</steal>
+            <ofrebound>26</ofrebound>
+            <defrebound>60</defrebound>
+            <stamina>43</stamina>
+            <defenseonball>61</defenseonball>
+            <currentStamina>43</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>E</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>D</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>73</id>
+        <fname>Kwame</fname>
+        <sname>Brown</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>70</totalrank>
+            <inscore>79</inscore>
+            <mediumshot>35</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>55</freethrow>
+            <dunk>91</dunk>
+            <pass>20</pass>
+            <ballsecuirity>45</ballsecuirity>
+            <block>51</block>
+            <steal>32</steal>
+            <ofrebound>34</ofrebound>
+            <defrebound>55</defrebound>
+            <stamina>45</stamina>
+            <defenseonball>64</defenseonball>
+            <currentStamina>45</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>E</outsidedeffense>
+            <iq>E</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>D</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+    <player>
+        <id>74</id>
+        <fname>Kobe</fname>
+        <sname>Bryant</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>96</totalrank>
+            <inscore>85</inscore>
+            <mediumshot>86</mediumshot>
+            <threeshoot>84</threeshoot>
+            <freethrow>80</freethrow>
+            <dunk>90</dunk>
+            <pass>59</pass>
+            <ballsecuirity>89</ballsecuirity>
+            <block>35</block>
+            <steal>78</steal>
+            <ofrebound>34</ofrebound>
+            <defrebound>64</defrebound>
+            <stamina>50</stamina>
+            <defenseonball>87</defenseonball>
+            <currentStamina>50</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <mentalskills>
+            <insidescore>B</insidescore>
+            <outsidescore>A</outsidescore>
+            <insidedeffense>B</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>A</iq>
+            <mediumdeffense>B</mediumdeffense>
+            <mediumscore>A</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>75</id>
+        <fname>Smush</fname>
+        <sname>Parker</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>74</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>78</mediumshot>
+            <threeshoot>70</threeshoot>
+            <freethrow>69</freethrow>
+            <dunk>55</dunk>
+            <pass>68</pass>
+            <ballsecuirity>70</ballsecuirity>
+            <block>13</block>
+            <steal>54</steal>
+            <ofrebound>24</ofrebound>
+            <defrebound>60</defrebound>
+            <stamina>45</stamina>
+            <defenseonball>69</defenseonball>
+            <currentStamina>45</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>76</id>
+        <fname>Brian</fname>
+        <sname>Cook</sname>
+        <offenseGamePosition>PF</offenseGamePosition>
+        <deffenseGamePosition>PF</deffenseGamePosition>
+        <defaultGamePosition>PF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>71</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>66</mediumshot>
+            <threeshoot>65</threeshoot>
+            <freethrow>83</freethrow>
+            <dunk>55</dunk>
+            <pass>11</pass>
+            <ballsecuirity>58</ballsecuirity>
+            <block>50</block>
+            <steal>22</steal>
+            <ofrebound>21</ofrebound>
+            <defrebound>51</defrebound>
+            <stamina>39</stamina>
+            <defenseonball>56</defenseonball>
+            <currentStamina>39</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>C</insidedeffense>
+            <outsidedeffense>E</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>D</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>RIGHT_100</offensedeffense>
+            <screenopening>RIGHT_100</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>77</id>
+        <fname>Sasha</fname>
+        <sname>Vujacic</sname>
+        <offenseGamePosition>SG</offenseGamePosition>
+        <deffenseGamePosition>SG</deffenseGamePosition>
+        <defaultGamePosition>SG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>75</totalrank>
+            <inscore>70</inscore>
+            <mediumshot>75</mediumshot>
+            <threeshoot>78</threeshoot>
+            <freethrow>89</freethrow>
+            <dunk>46</dunk>
+            <pass>51</pass>
+            <ballsecuirity>70</ballsecuirity>
+            <block>10</block>
+            <steal>63</steal>
+            <ofrebound>23</ofrebound>
+            <defrebound>55</defrebound>
+            <stamina>34</stamina>
+            <defenseonball>73</defenseonball>
+            <currentStamina>34</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>D</insidescore>
+            <outsidescore>B</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>B</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+    <player>
+        <id>78</id>
+        <fname>Aaron</fname>
+        <sname>McKie</sname>
+        <offenseGamePosition>PG</offenseGamePosition>
+        <deffenseGamePosition>PG</deffenseGamePosition>
+        <defaultGamePosition>PG</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>67</totalrank>
+            <inscore>61</inscore>
+            <mediumshot>72</mediumshot>
+            <threeshoot>73</threeshoot>
+            <freethrow>67</freethrow>
+            <dunk>34</dunk>
+            <pass>45</pass>
+            <ballsecuirity>60</ballsecuirity>
+            <block>10</block>
+            <steal>45</steal>
+            <ofrebound>21</ofrebound>
+            <defrebound>42</defrebound>
+            <stamina>28</stamina>
+            <defenseonball>60</defenseonball>
+            <currentStamina>28</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>E</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>D</outsidedeffense>
+            <iq>C</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+    
+    <player>
+        <id>79</id>
+        <fname>Ronny</fname>
+        <sname>Turiaf</sname>
+        <offenseGamePosition>C</offenseGamePosition>
+        <deffenseGamePosition>C</deffenseGamePosition>
+        <defaultGamePosition>C</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>70</totalrank>
+            <inscore>75</inscore>
+            <mediumshot>44</mediumshot>
+            <threeshoot>1</threeshoot>
+            <freethrow>57</freethrow>
+            <dunk>78</dunk>
+            <pass>22</pass>
+            <ballsecuirity>45</ballsecuirity>
+            <block>56</block>
+            <steal>23</steal>
+            <ofrebound>32</ofrebound>
+            <defrebound>58</defrebound>
+            <stamina>30</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>30</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>F</outsidescore>
+            <insidedeffense>E</insidedeffense>
+            <outsidedeffense>F</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>D</mediumdeffense>
+            <mediumscore>E</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>LEFT_0</insideoutside>
+            <reboundpass>LEFT_0</reboundpass>
+            <offensedeffense>RIGHT_100</offensedeffense>
+            <screenopening>LEFT_0</screenopening>
+        </playercondition>
+    </player>
+    
+    <player>
+        <id>80</id>
+        <fname>Devean</fname>
+        <sname>George</sname>
+        <offenseGamePosition>SF</offenseGamePosition>
+        <deffenseGamePosition>SF</deffenseGamePosition>
+        <defaultGamePosition>SF</defaultGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <individualskills>
+            <totalrank>77</totalrank>
+            <inscore>72</inscore>
+            <mediumshot>75</mediumshot>
+            <threeshoot>68</threeshoot>
+            <freethrow>67</freethrow>
+            <dunk>55</dunk>
+            <pass>44</pass>
+            <ballsecuirity>67</ballsecuirity>
+            <block>10</block>
+            <steal>45</steal>
+            <ofrebound>35</ofrebound>
+            <defrebound>58</defrebound>
+            <stamina>33</stamina>
+            <defenseonball>69</defenseonball>
+            <currentStamina>33</currentStamina>
+        </individualskills>
+        <!-- -->
+        <team>
+            <id>8</id>
+            <name>Los Angeles</name>
+        </team>
+        <!-- -->
+        <mentalskills>
+            <insidescore>C</insidescore>
+            <outsidescore>C</outsidescore>
+            <insidedeffense>D</insidedeffense>
+            <outsidedeffense>C</outsidedeffense>
+            <iq>D</iq>
+            <mediumdeffense>C</mediumdeffense>
+            <mediumscore>C</mediumscore>
+        </mentalskills>
+        <!-- -->
+        <playercondition>
+            <insideoutside>BALANCE_50</insideoutside>
+            <reboundpass>BALANCE_50</reboundpass>
+            <offensedeffense>BALANCE_50</offensedeffense>
+            <screenopening>BALANCE_50</screenopening>
+        </playercondition>
+    </player>
+
+   
+</players>

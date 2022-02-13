@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+        <id>1</id>
+        <name>Lebron James</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>94</totalRank>
+            <insideScore>86</insideScore>
+            <mediumShot>80</mediumShot>
+            <threeShot>67</threeShot>
+            <freeThrow>74</freeThrow>
+            <dunk>90</dunk>
+            <pass>90</pass>
+            <ballSecurity>85</ballSecurity>
+            <block>70</block>
+            <steal>70</steal>
+            <ofRebound>55</ofRebound>
+            <defRebound>80</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>83</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>A</iq>
+            <athleticism>A</athleticism>
+            <shotIq>A</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>B</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>2</id>
+        <name>Zydrunas Ilgauskas</name>
+        <gamePosition>C</gamePosition>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>80</totalRank>
+            <insideScore>90</insideScore>
+            <mediumShot>68</mediumShot>
+            <threeShot>40</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>60</dunk>
+            <pass>50</pass>
+            <ballSecurity>55</ballSecurity>
+            <block>80</block>
+            <steal>40</steal>
+            <ofRebound>70</ofRebound>
+            <defRebound>85</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>A</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>E</outsideScoring>
+            <interiorDefense>B</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>3</id>
+        <name>Drew Gooden</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>73</totalRank>
+            <insideScore>80</insideScore>
+            <mediumShot>55</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>73</freeThrow>
+            <dunk>70</dunk>
+            <pass>30</pass>
+            <ballSecurity>45</ballSecurity>
+            <block>60</block>
+            <steal>50</steal>
+            <ofRebound>70</ofRebound>
+            <defRebound>75</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>B</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>4</id>
+        <name>Larry Hughes</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>78</totalRank>
+            <insideScore>74</insideScore>
+            <mediumShot>67</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>60</dunk>
+            <pass>60</pass>
+            <ballSecurity>70</ballSecurity>
+            <block>30</block>
+            <steal>80</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>80</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>B</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>A</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>5</id>
+        <name>Eric Snow</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>67</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>60</mediumShot>
+            <threeShot>40</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>10</dunk>
+            <pass>63</pass>
+            <ballSecurity>72</ballSecurity>
+            <block>10</block>
+            <steal>40</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>85</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>A</iq>
+            <athleticism>D</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>B</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>A</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>6</id>
+        <name>Donyell Marshall</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>70</insideScore>
+            <mediumShot>60</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>73</freeThrow>
+            <dunk>50</dunk>
+            <pass>20</pass>
+            <ballSecurity>45</ballSecurity>
+            <block>40</block>
+            <steal>40</steal>
+            <ofRebound>50</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>50</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+        <!-- -->
+    </player>
+
+    <player>
+        <id>7</id>
+        <name>Ronald Murray</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>73</totalRank>
+            <insideScore>65</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>61</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>60</dunk>
+            <pass>50</pass>
+            <ballSecurity>60</ballSecurity>
+            <block>20</block>
+            <steal>50</steal>
+            <ofRebound>20</ofRebound>
+            <defRebound>54</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>50</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>8</id>
+        <name>Damon Jones</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>66</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>68</mediumShot>
+            <threeShot>70</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>30</dunk>
+            <pass>60</pass>
+            <ballSecurity>62</ballSecurity>
+            <block>20</block>
+            <steal>54</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>44</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>OFFENSIVE</offenseDefense>
+            <reboundAssist>ASSIST</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>9</id>
+        <name>Anderson Varejao</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>60</totalRank>
+            <insideScore>64</insideScore>
+            <mediumShot>45</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>60</freeThrow>
+            <dunk>60</dunk>
+            <pass>20</pass>
+            <ballSecurity>30</ballSecurity>
+            <block>50</block>
+            <steal>20</steal>
+            <ofRebound>46</ofRebound>
+            <defRebound>64</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>40</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>D</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>10</id>
+        <name>Sasha Pavlovic</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>64</insideScore>
+            <mediumShot>64</mediumShot>
+            <threeShot>58</threeShot>
+            <freeThrow>74</freeThrow>
+            <dunk>62</dunk>
+            <pass>43</pass>
+            <ballSecurity>60</ballSecurity>
+            <block>40</block>
+            <steal>55</steal>
+            <ofRebound>11</ofRebound>
+            <defRebound>58</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>64</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>1</id>
+            <name>Cleveland</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+</players>

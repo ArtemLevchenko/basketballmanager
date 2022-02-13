@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+        <id>21</id>
+        <name>Antoine Walker</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>68</threeShot>
+            <freeThrow>62</freeThrow>
+            <dunk>63</dunk>
+            <pass>44</pass>
+            <ballSecurity>60</ballSecurity>
+            <block>30</block>
+            <steal>42</steal>
+            <ofRebound>40</ofRebound>
+            <defRebound>64</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>55</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>22</id>
+        <name>Shaquille O'Neal</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>90</totalRank>
+            <insideScore>94</insideScore>
+            <mediumShot>40</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>61</freeThrow>
+            <dunk>91</dunk>
+            <pass>40</pass>
+            <ballSecurity>50</ballSecurity>
+            <block>89</block>
+            <steal>30</steal>
+            <ofRebound>64</ofRebound>
+            <defRebound>80</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>45</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>A</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>A</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>23</id>
+        <name>Udonis Haslem</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>69</totalRank>
+            <insideScore>71</insideScore>
+            <mediumShot>68</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>73</freeThrow>
+            <dunk>64</dunk>
+            <pass>20</pass>
+            <ballSecurity>54</ballSecurity>
+            <block>60</block>
+            <steal>30</steal>
+            <ofRebound>30</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>54</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>C</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>24</id>
+        <name>Dwyane Wade</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>91</totalRank>
+            <insideScore>88</insideScore>
+            <mediumShot>75</mediumShot>
+            <threeShot>50</threeShot>
+            <freeThrow>75</freeThrow>
+            <dunk>93</dunk>
+            <pass>75</pass>
+            <ballSecurity>83</ballSecurity>
+            <block>60</block>
+            <steal>85</steal>
+            <ofRebound>40</ofRebound>
+            <defRebound>73</defRebound>
+            <stamina>60</stamina>
+            <defenseOnBall>83</defenseOnBall>
+            <currentStamina>60</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>A</iq>
+            <athleticism>A</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>B</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>A</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>OFFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>25</id>
+        <name>Jason Williams</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>72</totalRank>
+            <insideScore>64</insideScore>
+            <mediumShot>73</mediumShot>
+            <threeShot>81</threeShot>
+            <freeThrow>81</freeThrow>
+            <dunk>10</dunk>
+            <pass>80</pass>
+            <ballSecurity>78</ballSecurity>
+            <block>10</block>
+            <steal>50</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>40</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>64</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>ASSIST</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>26</id>
+        <name>Wayne Simien</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>55</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>20</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>54</freeThrow>
+            <dunk>64</dunk>
+            <pass>5</pass>
+            <ballSecurity>31</ballSecurity>
+            <block>55</block>
+            <steal>5</steal>
+            <ofRebound>30</ofRebound>
+            <defRebound>60</defRebound>
+            <stamina>25</stamina>
+            <defenseOnBall>31</defenseOnBall>
+            <currentStamina>25</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>F</iq>
+            <athleticism>D</athleticism>
+            <shotIq>F</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>27</id>
+        <name>Derek Anderson</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>61</insideScore>
+            <mediumShot>75</mediumShot>
+            <threeShot>61</threeShot>
+            <freeThrow>84</freeThrow>
+            <dunk>50</dunk>
+            <pass>49</pass>
+            <ballSecurity>61</ballSecurity>
+            <block>10</block>
+            <steal>41</steal>
+            <ofRebound>11</ofRebound>
+            <defRebound>45</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>53</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>28</id>
+        <name>Gary Payton</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>74</totalRank>
+            <insideScore>68</insideScore>
+            <mediumShot>77</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>78</freeThrow>
+            <dunk>30</dunk>
+            <pass>66</pass>
+            <ballSecurity>70</ballSecurity>
+            <block>10</block>
+            <steal>55</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>44</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>65</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>ASSIST</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>29</id>
+        <name>Alonzo Mourning</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>73</totalRank>
+            <insideScore>77</insideScore>
+            <mediumShot>44</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>67</freeThrow>
+            <dunk>80</dunk>
+            <pass>10</pass>
+            <ballSecurity>35</ballSecurity>
+            <block>90</block>
+            <steal>30</steal>
+            <ofRebound>60</ofRebound>
+            <defRebound>88</defRebound>
+            <stamina>30</stamina>
+            <defenseOnBall>71</defenseOnBall>
+            <currentStamina>30</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>B</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>A</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>30</id>
+        <name>Jason Kapono</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>68</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>80</mediumShot>
+            <threeShot>83</threeShot>
+            <freeThrow>90</freeThrow>
+            <dunk>30</dunk>
+            <pass>40</pass>
+            <ballSecurity>50</ballSecurity>
+            <block>10</block>
+            <steal>40</steal>
+            <ofRebound>11</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>45</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>3</id>
+            <name>Miami</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>D</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>A</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>OFFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+</players>

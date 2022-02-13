@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+        <id>31</id>
+        <name>Tayshaun Prince</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>71</totalRank>
+            <insideScore>65</insideScore>
+            <mediumShot>67</mediumShot>
+            <threeShot>55</threeShot>
+            <freeThrow>78</freeThrow>
+            <dunk>80</dunk>
+            <pass>30</pass>
+            <ballSecurity>60</ballSecurity>
+            <block>50</block>
+            <steal>55</steal>
+            <ofRebound>30</ofRebound>
+            <defRebound>60</defRebound>
+            <stamina>50</stamina>
+            <defenseOnBall>70</defenseOnBall>
+            <currentStamina>50</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>32</id>
+        <name>Ben Wallace</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>81</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>40</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>42</freeThrow>
+            <dunk>90</dunk>
+            <pass>30</pass>
+            <ballSecurity>70</ballSecurity>
+            <block>88</block>
+            <steal>84</steal>
+            <ofRebound>74</ofRebound>
+            <defRebound>90</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>80</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>A</interiorDefense>
+            <midDefense>A</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>33</id>
+        <name>Rasheed Wallace</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>83</totalRank>
+            <insideScore>74</insideScore>
+            <mediumShot>72</mediumShot>
+            <threeShot>65</threeShot>
+            <freeThrow>74</freeThrow>
+            <dunk>71</dunk>
+            <pass>32</pass>
+            <ballSecurity>50</ballSecurity>
+            <block>70</block>
+            <steal>60</steal>
+            <ofRebound>40</ofRebound>
+            <defRebound>77</defRebound>
+            <stamina>50</stamina>
+            <defenseOnBall>62</defenseOnBall>
+            <currentStamina>50</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>B</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>34</id>
+        <name>Richard Hamilton</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>83</totalRank>
+            <insideScore>70</insideScore>
+            <mediumShot>78</mediumShot>
+            <threeShot>72</threeShot>
+            <freeThrow>84</freeThrow>
+            <dunk>60</dunk>
+            <pass>55</pass>
+            <ballSecurity>75</ballSecurity>
+            <block>10</block>
+            <steal>50</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>70</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>B</athleticism>
+            <shotIq>A</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>OFFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>35</id>
+        <name>Chauncey Billups</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>85</totalRank>
+            <insideScore>70</insideScore>
+            <mediumShot>80</mediumShot>
+            <threeShot>73</threeShot>
+            <freeThrow>89</freeThrow>
+            <dunk>10</dunk>
+            <pass>84</pass>
+            <ballSecurity>80</ballSecurity>
+            <block>10</block>
+            <steal>63</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>40</defRebound>
+            <stamina>50</stamina>
+            <defenseOnBall>77</defenseOnBall>
+            <currentStamina>50</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>A</iq>
+            <athleticism>B</athleticism>
+            <shotIq>A</shotIq>
+            <outsideScoring>A</outsideScoring>
+            <interiorDefense>B</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>A</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>ASSIST</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>36</id>
+        <name>Antonio McDyess</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>70</insideScore>
+            <mediumShot>63</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>58</freeThrow>
+            <dunk>70</dunk>
+            <pass>20</pass>
+            <ballSecurity>41</ballSecurity>
+            <block>50</block>
+            <steal>41</steal>
+            <ofRebound>30</ofRebound>
+            <defRebound>65</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>52</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>B</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>37</id>
+        <name>Carlos Arroyo</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>65</totalRank>
+            <insideScore>54</insideScore>
+            <mediumShot>66</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>74</freeThrow>
+            <dunk>30</dunk>
+            <pass>60</pass>
+            <ballSecurity>55</ballSecurity>
+            <block>10</block>
+            <steal>40</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>54</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>55</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+
+    <player>
+        <id>38</id>
+        <name>Lindsey Hunter</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>64</totalRank>
+            <insideScore>55</insideScore>
+            <mediumShot>61</mediumShot>
+            <threeShot>55</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>10</dunk>
+            <pass>50</pass>
+            <ballSecurity>70</ballSecurity>
+            <block>10</block>
+            <steal>44</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>34</defRebound>
+            <stamina>33</stamina>
+            <defenseOnBall>65</defenseOnBall>
+            <currentStamina>33</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>E</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>39</id>
+        <name>Amir Johnson</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>60</totalRank>
+            <insideScore>68</insideScore>
+            <mediumShot>45</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>63</freeThrow>
+            <dunk>70</dunk>
+            <pass>23</pass>
+            <ballSecurity>34</ballSecurity>
+            <block>55</block>
+            <steal>10</steal>
+            <ofRebound>40</ofRebound>
+            <defRebound>62</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>42</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>B</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>40</id>
+        <name>Maurice Evans</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>72</totalRank>
+            <insideScore>63</insideScore>
+            <mediumShot>64</mediumShot>
+            <threeShot>55</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>66</dunk>
+            <pass>34</pass>
+            <ballSecurity>62</ballSecurity>
+            <block>20</block>
+            <steal>30</steal>
+            <ofRebound>18</ofRebound>
+            <defRebound>59</defRebound>
+            <stamina>38</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>38</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>C</athleticism>
+            <shotIq>D</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+</players>

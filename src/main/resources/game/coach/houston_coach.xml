@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>5</id>
+        <name>Jeff Van Gundy</name>
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

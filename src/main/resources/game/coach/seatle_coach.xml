@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>10</id>
+        <name>Bob Hill</name>
+        <team>
+            <id>10</id>
+            <name>Seatle</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

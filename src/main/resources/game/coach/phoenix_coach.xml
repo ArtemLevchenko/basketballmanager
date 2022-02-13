@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+    <coach>
+        <id>7</id>
+        <name>Mike D'Antoni</name>
+        <team>
+            <id>6</id>
+            <name>Phoenix</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>OFFENSIVE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+</coaches>

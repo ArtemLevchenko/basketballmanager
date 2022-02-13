@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<coaches>
+
+    <coach>
+        <id>4</id>
+        <name>Flip Saunders</name>
+        <team>
+            <id>4</id>
+            <name>Detroit</name>
+        </team>
+        <coachGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+        </coachGamePlan>
+    </coach>
+
+</coaches>

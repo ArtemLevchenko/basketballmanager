@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<players>
+    <player>
+      <id>41</id>
+        <name>Tracy McGrady</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>93</totalRank>
+            <insideScore>88</insideScore>
+            <mediumShot>83</mediumShot>
+            <threeShot>74</threeShot>
+            <freeThrow>74</freeThrow>
+            <dunk>85</dunk>
+            <pass>74</pass>
+            <ballSecurity>86</ballSecurity>
+            <block>62</block>
+            <steal>72</steal>
+            <ofRebound>35</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>55</stamina>
+            <defenseOnBall>80</defenseOnBall>
+            <currentStamina>55</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>A</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>42</id>
+        <name>Yao Ming</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>89</totalRank>
+            <insideScore>90</insideScore>
+            <mediumShot>63</mediumShot>
+            <threeShot>34</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>93</dunk>
+            <pass>39</pass>
+            <ballSecurity>65</ballSecurity>
+            <block>90</block>
+            <steal>52</steal>
+            <ofRebound>83</ofRebound>
+            <defRebound>94</defRebound>
+            <stamina>52</stamina>
+            <defenseOnBall>67</defenseOnBall>
+            <currentStamina>52</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>A</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>A</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>43</id>
+        <name>Juwan Howard</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>74</totalRank>
+            <insideScore>72</insideScore>
+            <mediumShot>60</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>80</freeThrow>
+            <dunk>73</dunk>
+            <pass>24</pass>
+            <ballSecurity>45</ballSecurity>
+            <block>63</block>
+            <steal>40</steal>
+            <ofRebound>69</ofRebound>
+            <defRebound>75</defRebound>
+            <stamina>44</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>44</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>B</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>E</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+    <player>
+        <id>44</id>
+        <name>David Wesley</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>72</insideScore>
+            <mediumShot>74</mediumShot>
+            <threeShot>65</threeShot>
+            <freeThrow>82</freeThrow>
+            <dunk>20</dunk>
+            <pass>62</pass>
+            <ballSecurity>73</ballSecurity>
+            <block>11</block>
+            <steal>60</steal>
+            <ofRebound>11</ofRebound>
+            <defRebound>45</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>74</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>ASSIST</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>45</id>
+        <name>Rafer Alston</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>true</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>80</totalRank>
+            <insideScore>73</insideScore>
+            <mediumShot>79</mediumShot>
+            <threeShot>75</threeShot>
+            <freeThrow>82</freeThrow>
+            <dunk>30</dunk>
+            <pass>80</pass>
+            <ballSecurity>83</ballSecurity>
+            <block>10</block>
+            <steal>60</steal>
+            <ofRebound>10</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>50</stamina>
+            <defenseOnBall>79</defenseOnBall>
+            <currentStamina>50</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>B</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>B</midDefense>
+            <perimeterDefense>B</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>46</id>
+        <name>Stromile Swift</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>78</totalRank>
+            <insideScore>82</insideScore>
+            <mediumShot>55</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>65</freeThrow>
+            <dunk>93</dunk>
+            <pass>20</pass>
+            <ballSecurity>44</ballSecurity>
+            <block>78</block>
+            <steal>43</steal>
+            <ofRebound>42</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>45</stamina>
+            <defenseOnBall>51</defenseOnBall>
+            <currentStamina>45</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>B</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>E</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>BALANCE_50</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>47</id>
+        <name>Luther Head</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>74</totalRank>
+            <insideScore>78</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>63</threeShot>
+            <freeThrow>71</freeThrow>
+            <dunk>40</dunk>
+            <pass>55</pass>
+            <ballSecurity>71</ballSecurity>
+            <block>10</block>
+            <steal>43</steal>
+            <ofRebound>24</ofRebound>
+            <defRebound>50</defRebound>
+            <stamina>43</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>43</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>D</iq>
+            <athleticism>C</athleticism>
+            <shotIq>B</shotIq>
+            <outsideScoring>C</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>C</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>THREEPT</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>ASSIST</reboundAssist>
+            <screenOpening>OPENING</screenOpening>
+        </playerGamePlan>
+    </player>
+
+
+    <player>
+        <id>48</id>
+        <name>Keith Bogans</name>
+        <currentGamePosition>G</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>69</totalRank>
+            <insideScore>60</insideScore>
+            <mediumShot>69</mediumShot>
+            <threeShot>60</threeShot>
+            <freeThrow>74</freeThrow>
+            <dunk>50</dunk>
+            <pass>55</pass>
+            <ballSecurity>65</ballSecurity>
+            <block>10</block>
+            <steal>56</steal>
+            <ofRebound>23</ofRebound>
+            <defRebound>50</defRebound>
+            <stamina>40</stamina>
+            <defenseonball>55</defenseonball>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>D</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>49</id>
+        <name>Dikembe Mutombo</name>
+        <currentGamePosition>C</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>72</totalRank>
+            <insideScore>80</insideScore>
+            <mediumShot>30</mediumShot>
+            <threeShot>1</threeShot>
+            <freeThrow>67</freeThrow>
+            <dunk>80</dunk>
+            <pass>34</pass>
+            <ballSecurity>45</ballSecurity>
+            <block>90</block>
+            <steal>20</steal>
+            <ofRebound>55</ofRebound>
+            <defRebound>70</defRebound>
+            <stamina>35</stamina>
+            <defenseOnBall>60</defenseOnBall>
+            <currentStamina>35</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>B</iq>
+            <athleticism>B</athleticism>
+            <shotIq>E</shotIq>
+            <outsideScoring>F</outsideScoring>
+            <interiorDefense>C</interiorDefense>
+            <midDefense>D</midDefense>
+            <perimeterDefense>F</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>INSIDE</insideOutside>
+            <offenseDefense>DEFENSIVE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
+            <screenOpening>SCREEN</screenOpening>
+        </playerGamePlan>
+    </player>
+
+    <player>
+        <id>50</id>
+        <name>Derek Anderson</name>
+        <currentGamePosition>F</currentGamePosition>
+        <inStart>false</inStart>
+        <!-- -->
+        <characteristics>
+            <totalRank>70</totalRank>
+            <insideScore>67</insideScore>
+            <mediumShot>70</mediumShot>
+            <threeShot>50</threeShot>
+            <freeThrow>84</freeThrow>
+            <dunk>70</dunk>
+            <pass>40</pass>
+            <ballSecurity>66</ballSecurity>
+            <block>30</block>
+            <steal>30</steal>
+            <ofRebound>22</ofRebound>
+            <defRebound>55</defRebound>
+            <stamina>40</stamina>
+            <defenseOnBall>61</defenseOnBall>
+            <currentStamina>40</currentStamina>
+        </characteristics>
+        <!-- -->
+        <team>
+            <id>7</id>
+            <name>Houston</name>
+        </team>
+        <!-- -->
+        <skills>
+            <iq>C</iq>
+            <athleticism>D</athleticism>
+            <shotIq>C</shotIq>
+            <outsideScoring>D</outsideScoring>
+            <interiorDefense>E</interiorDefense>
+            <midDefense>C</midDefense>
+            <perimeterDefense>D</perimeterDefense>
+        </skills>
+        <!-- -->
+        <playerGamePlan>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>BALANCE</reboundAssist>
+            <screenOpening>BALANCE</screenOpening>
+        </playerGamePlan>
+    </player>
+</players>
