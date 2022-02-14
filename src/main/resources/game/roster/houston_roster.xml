@@ -274,7 +274,7 @@
         <!-- -->
         <playerGamePlan>
             <insideOutside>INSIDE</insideOutside>
-            <offenseDefense>BALANCE_50</offenseDefense>
+            <offenseDefense>BALANCE</offenseDefense>
             <reboundAssist>REBOUND</reboundAssist>
             <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
