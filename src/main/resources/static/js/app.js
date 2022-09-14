@@ -175,6 +175,16 @@ $(document).ready(function () {
         });
     });
 
+    $("#homeTeamBoxScoresId").on('click-row.bs.table', function (e, row, $element) {
+        getAndUpdateUIPlayerInfoData(row.id, row.name);
+        $('#idPlayerCardModalSettings').modal('show');
+    });
+
+    $("#awayTeamBoxScoresId").on('click-row.bs.table', function (e, row, $element) {
+        getAndUpdateUIPlayerInfoData(row.id, row.name);
+        $('#idPlayerCardModalSettings').modal('show');
+    });
+
 });
 
 function updateBoxScoresTable(element, data) {
