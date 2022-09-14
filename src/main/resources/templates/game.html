@@ -85,21 +85,6 @@
                 <div class="col-md-5">
                     <h3 id="homeTeamNameId">Home Team</h3>
                 </div>
-                <div class="col-md-3">
-                    <select class="form-select form-select-sm" id="idHomeSelectorPlayerCommand">
-                    </select>
-                </div>
-                <div class="col-md-2">
-                    <button type="button" id="idHomeCommandButton" class="btn btn-outline-success btn-sm"
-                            data-bs-toggle="modal" data-bs-target="#idPlayerCardModalSettings">Command
-                    </button>
-                </div>
-                <div class="col-md-2">
-                    <input type="hidden" id="idHomeCoachIdModalSettings"/>
-                    <button type="button" id="idHomeCoachButton" class="btn btn-outline-success btn-sm"
-                            data-bs-toggle="modal" data-bs-target="#idCoachModalSettings">Coach Settings
-                    </button>
-                </div>
                 <table class="table" id="homeTeamBoxScoresId" data-row-style="rowStyle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Click to open Player Commands">
                     <thead class="table-dark table-sm-1">
                     <tr>
@@ -127,21 +112,6 @@
                 </br>
                 <div class="col-md-5">
                     <h3 id="awayTeamNameId">Away Team</h3>
-                </div>
-                <div class="col-md-3">
-                    <select class="form-select form-select-sm" id="idAwaySelectorPlayerCommand">
-                    </select>
-                </div>
-                <div class="col-md-2">
-                    <button type="button" id="idAwayCommandButton" class="btn btn-outline-success btn-sm"
-                            data-bs-toggle="modal" data-bs-target="#idPlayerCardModalSettings">Command
-                    </button>
-                </div>
-                <div class="col-md-2">
-                    <input type="hidden" id="idAwayCoachIdModalSettings"/>
-                    <button type="button" id="idAwayCoachButton" class="btn btn-outline-success btn-sm"
-                            data-bs-toggle="modal" data-bs-target="#idCoachModalSettings">Coach Settings
-                    </button>
                 </div>
                 <table class="table" id="awayTeamBoxScoresId" data-row-style="rowStyle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Click to open Player Commands">
                     <thead class="table-light">
@@ -236,6 +206,74 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 nba_highlight_box">
+            <div class="col">
+                <h3>Home Team Settings:</h3>
+                <div class="row">
+                    <div class="col">
+                        <p>Players Settings:</p>
+                    </div>
+                    <div class="col">
+                        <select class="form-select form-select-sm" id="idHomeSelectorPlayerCommand">
+                        </select>
+                    </div>
+                    <div class="col">
+                        <button type="button" id="idHomeCommandButton" class="btn btn-outline-success btn-sm"
+                            data-bs-toggle="modal" data-bs-target="#idPlayerCardModalSettings">Command
+                        </button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <p>Coach Settings:</p>
+                    </div>
+                    <div class="col">
+                        <input type="hidden" id="idHomeCoachIdModalSettings"/>
+                        <button type="button" id="idHomeCoachButton" class="btn btn-outline-success btn-sm"
+                                data-bs-toggle="modal" data-bs-target="#idCoachModalSettings">Coach Settings
+                        </button>
+                    </div>
+                    <div class="col">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 nba_highlight_box">
+            <div class="col">
+                <h3>Away Team Settings:</h3>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>Players Settings:</p>
+                </div>
+                <div class="col">
+                    <select class="form-select form-select-sm" id="idAwaySelectorPlayerCommand">
+                    </select>
+                </div>
+                <div class="col">
+                    <button type="button" id="idAwayCommandButton" class="btn btn-outline-success btn-sm"
+                            data-bs-toggle="modal" data-bs-target="#idPlayerCardModalSettings">Command
+                    </button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>Coach Settings:</p>
+                </div>
+                <div class="col">
+                    <input type="hidden" id="idAwayCoachIdModalSettings"/>
+                    <button type="button" id="idAwayCoachButton" class="btn btn-outline-success btn-sm"
+                            data-bs-toggle="modal" data-bs-target="#idCoachModalSettings">Coach Settings
+                    </button>
+                </div>
+                <div class="col">
+                </div>
+            </div>
+
+        </div>
+
     </div>
 </div>
 
