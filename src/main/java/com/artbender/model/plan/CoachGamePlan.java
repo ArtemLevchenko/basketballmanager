@@ -2,6 +2,7 @@ package com.artbender.model.plan;
 
 import com.artbender.model.tendency.GameFocusTendency;
 import com.artbender.model.tendency.ShootingFocusTendency;
+import com.artbender.model.tendency.SubstitutionRating;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -23,4 +24,6 @@ public class CoachGamePlan implements Serializable {
     private ShootingFocusTendency insideOutside;
     @XmlElement
     private GameFocusTendency offenseDefense;
+    @XmlElement
+    private SubstitutionRating substitutionRating;
 }

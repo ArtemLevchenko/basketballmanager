@@ -94,13 +94,15 @@ $(document).ready(function () {
         var idCardCoach = $("#idCardCoach").text();
         var coachShootingFocusTendency = $("#idCoachShootingFocusTendency").find(":selected").text();
         var coachGameFocusTendency = $("#idCoachGameFocusTendency").find(":selected").text();
+        var coachSubstitutionRating = $("#idCoachSubstitutionRating").find(":selected").text();
         $.ajax({
             type: 'PUT',
             url: '/api/v1/nba/saveCoachSettings',
             data: JSON.stringify({
                 'id': idCardCoach,
                 'insideOutside': coachShootingFocusTendency,
-                'offenseDefense': coachGameFocusTendency
+                'offenseDefense': coachGameFocusTendency,
+                'substitutionRating' : coachSubstitutionRating
             }),
             dataType: 'json',
             contentType: 'application/json',
@@ -267,6 +269,7 @@ function getAndUpdateUICoachInfoData(selectedId) {
             $("#idCardCoachName").text(data.name);
             $('#idCoachShootingFocusTendency').val(data.insideOutside);
             $('#idCoachGameFocusTendency').val(data.offenseDefense);
+            $('#idCoachSubstitutionRating').val(data.substitutionRating);
         },
         error: function (data) {
             alert("error : " + data.error);

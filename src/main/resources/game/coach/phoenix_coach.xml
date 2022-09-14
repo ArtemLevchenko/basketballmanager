@@ -10,6 +10,7 @@
         <coachGamePlan>
             <insideOutside>THREEPT</insideOutside>
             <offenseDefense>OFFENSIVE</offenseDefense>
+            <substitutionRating>0%</substitutionRating>
         </coachGamePlan>
     </coach>
 </coaches>

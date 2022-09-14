@@ -92,6 +92,7 @@ public class GameTransformDataService {
                 .name(coach.getName())
                 .offenseDefense(coach.getCoachGamePlan().getOffenseDefense().getLabel())
                 .insideOutside(coach.getCoachGamePlan().getInsideOutside().getLabel())
+                .substitutionRating(coach.getCoachGamePlan().getSubstitutionRating().getLabel())
                 .build();
     }
 }

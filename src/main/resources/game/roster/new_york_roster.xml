@@ -7,6 +7,7 @@
         <name>Jalen Rose</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>78</totalRank>
@@ -54,6 +55,7 @@
         <name>Eddy Curry</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>74</totalRank>
@@ -101,6 +103,7 @@
         <name>Channing Frye</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
@@ -148,6 +151,7 @@
         <name>Steve Francis</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>82</totalRank>
@@ -195,6 +199,7 @@
         <name>Stephon Marbury</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>86</totalRank>
@@ -242,6 +247,7 @@
         <name>David Lee</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>63</totalRank>
@@ -289,6 +295,7 @@
         <name>Jamal Crawford</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>78</totalRank>
@@ -337,6 +344,7 @@
         <name>Nate Robinson</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>70</totalRank>
@@ -384,6 +392,7 @@
         <name>Antonio Davis</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>61</totalRank>
@@ -431,6 +440,7 @@
         <name>Quentin Richardson</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>77</totalRank>

@@ -10,4 +10,5 @@ public class CoachSettingDTO {
     private String name;
     private String insideOutside;
     private String offenseDefense;
+    private int substitutionRating;
 }

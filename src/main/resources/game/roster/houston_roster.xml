@@ -6,6 +6,7 @@
         <name>Tracy McGrady</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>93</totalRank>
@@ -52,6 +53,7 @@
         <name>Yao Ming</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>89</totalRank>
@@ -98,6 +100,7 @@
         <name>Juwan Howard</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>74</totalRank>
@@ -144,6 +147,7 @@
         <name>David Wesley</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>70</totalRank>
@@ -191,6 +195,7 @@
         <name>Rafer Alston</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>80</totalRank>
@@ -238,6 +243,7 @@
         <name>Stromile Swift</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>78</totalRank>
@@ -285,6 +291,7 @@
         <name>Luther Head</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>74</totalRank>
@@ -333,6 +340,7 @@
         <name>Keith Bogans</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>69</totalRank>
@@ -380,6 +388,7 @@
         <name>Dikembe Mutombo</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>72</totalRank>
@@ -427,6 +436,7 @@
         <name>Derek Anderson</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>BENCH_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>70</totalRank>

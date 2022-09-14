@@ -6,6 +6,7 @@
         <name>Tayshaun Prince</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
@@ -52,6 +53,7 @@
         <name>Ben Wallace</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>81</totalRank>
@@ -98,6 +100,7 @@
         <name>Rasheed Wallace</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>83</totalRank>
@@ -144,6 +147,7 @@
         <name>Richard Hamilton</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>83</totalRank>
@@ -191,6 +195,7 @@
         <name>Chauncey Billups</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>85</totalRank>
@@ -238,6 +243,7 @@
         <name>Antonio McDyess</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>70</totalRank>
@@ -285,6 +291,7 @@
         <name>Carlos Arroyo</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>65</totalRank>
@@ -333,6 +340,7 @@
         <name>Lindsey Hunter</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>64</totalRank>
@@ -380,6 +388,7 @@
         <name>Amir Johnson</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>BENCH_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>60</totalRank>
@@ -427,6 +436,7 @@
         <name>Maurice Evans</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>BENCH_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>72</totalRank>

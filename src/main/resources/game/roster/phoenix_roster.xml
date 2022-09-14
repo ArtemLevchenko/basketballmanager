@@ -6,6 +6,7 @@
         <name>Shawn Marion</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>86</totalRank>
@@ -52,6 +53,7 @@
         <name>Boris Diaw</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
@@ -98,6 +100,7 @@
         <name>Amare Stoudemire</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>88</totalRank>
@@ -144,6 +147,7 @@
         <name>Raja Bell</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>73</totalRank>
@@ -190,6 +194,7 @@
         <name>Steve Nash</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>91</totalRank>
@@ -237,6 +242,7 @@
         <name>Tim Thomas</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
@@ -284,6 +290,7 @@
         <name>Leandro Barbosa</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>75</totalRank>
@@ -331,6 +338,7 @@
         <name>Eddie House</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
@@ -378,6 +386,7 @@
         <name>Kurt Thomas</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>73</totalRank>
@@ -425,6 +434,7 @@
         <name>James Jones</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>65</totalRank>

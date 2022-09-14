@@ -10,6 +10,7 @@
         <coachGamePlan>
             <insideOutside>BALANCE</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
+            <substitutionRating>ZERO</substitutionRating>
         </coachGamePlan>
     </coach>
 </coaches>

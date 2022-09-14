@@ -5,10 +5,7 @@ import com.artbender.model.db.Player;
 import com.artbender.model.dto.rest.*;
 import com.artbender.model.exceptions.NbaManagerException;
 import com.artbender.model.plan.PlayerGamePlan;
-import com.artbender.model.tendency.GameFocusTendency;
-import com.artbender.model.tendency.OffensiveFocusTendency;
-import com.artbender.model.tendency.ShootingFocusTendency;
-import com.artbender.model.tendency.SupportFocusTendency;
+import com.artbender.model.tendency.*;
 import com.artbender.service.engine.action.Action;
 import com.artbender.service.engine.action.support.GameAction;
 import com.artbender.service.engine.context.GameContext;
@@ -138,6 +135,7 @@ public class GameOrchestratorImpl implements GameOrchestrator {
         }
         coach.getCoachGamePlan().setOffenseDefense(GameFocusTendency.valueOf(coachSettingDTO.getOffenseDefense()));
         coach.getCoachGamePlan().setInsideOutside(ShootingFocusTendency.valueOf(coachSettingDTO.getInsideOutside()));
+        coach.getCoachGamePlan().setSubstitutionRating(SubstitutionRating.convertValueToName(coachSettingDTO.getSubstitutionRating()));
     }
 
     @Override

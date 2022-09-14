@@ -5,6 +5,7 @@ import com.artbender.model.attribute.Skills;
 import com.artbender.model.plan.PlayerGamePlan;
 import com.artbender.model.stats.PlayerStats;
 import com.artbender.model.support.GamePosition;
+import com.artbender.model.support.GameRole;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -37,6 +38,8 @@ public class Player implements Serializable {
     private PlayerGamePlan playerGamePlan;
     @XmlElement
     private boolean inStart;
+    @XmlElement
+    private GameRole gameRole;
 
     //TODO: Add mental characteristics -> Confidence, form etc.
 

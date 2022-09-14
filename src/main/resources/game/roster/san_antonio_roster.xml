@@ -6,6 +6,7 @@
         <name>Bruce Bowen</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>75</totalRank>
@@ -52,6 +53,7 @@
         <name>Rasho Nesterovic</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>73</totalRank>
@@ -98,6 +100,7 @@
         <name>Tim Duncan</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>90</totalRank>
@@ -144,6 +147,7 @@
         <name>Manu Ginobili</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>82</totalRank>
@@ -190,6 +194,7 @@
         <name>Tony Parker</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>81</totalRank>
@@ -237,6 +242,7 @@
         <name>Robert Horry</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>74</totalRank>
@@ -284,6 +290,7 @@
         <name>Michael Finley</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>76</totalRank>
@@ -331,6 +338,7 @@
         <name>Nick Van Exel</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>72</totalRank>
@@ -378,6 +386,7 @@
         <name>Nazr Mohammed</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>77</totalRank>
@@ -425,6 +434,7 @@
         <name>Brent Barry</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>ROLE_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>68</totalRank>

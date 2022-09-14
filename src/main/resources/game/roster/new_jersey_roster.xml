@@ -6,6 +6,7 @@
         <name>Richard Jefferson</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>81</totalRank>
@@ -52,6 +53,7 @@
         <name>Nenad Krstic</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>START_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>77</totalRank>
@@ -98,6 +100,7 @@
         <name>Jason Collins</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>68</totalRank>
@@ -144,6 +147,7 @@
         <name>Vince Carter</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>90</totalRank>
@@ -190,6 +194,7 @@
         <name>Jason Kidd</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>true</inStart>
+        <gameRole>HERO</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>88</totalRank>
@@ -237,6 +242,7 @@
         <name>Clifford Robinson</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>75</totalRank>
@@ -284,6 +290,7 @@
         <name>Jeff McInnis</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>SIX_MAN</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
@@ -331,6 +338,7 @@
         <name>Jacque Vaughn</name>
         <currentGamePosition>G</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>BENCH_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>65</totalRank>
@@ -378,6 +386,7 @@
         <name>Scott Padgett</name>
         <currentGamePosition>C</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>BENCH_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>70</totalRank>
@@ -425,6 +434,7 @@
         <name>Bostjan Nachbar</name>
         <currentGamePosition>F</currentGamePosition>
         <inStart>false</inStart>
+        <gameRole>BENCH_PLAYER</gameRole>
         <!-- -->
         <characteristics>
             <totalRank>71</totalRank>
