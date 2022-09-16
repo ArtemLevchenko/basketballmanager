@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 @NoArgsConstructor
 @Slf4j
 @Service
-@Order(16)
+@Order(17)
 public class NextTurnUpdateAction implements Action {
 
     private RandomService randomService;

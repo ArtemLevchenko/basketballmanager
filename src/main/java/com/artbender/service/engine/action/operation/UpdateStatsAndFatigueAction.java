@@ -4,13 +4,11 @@ import com.artbender.model.db.Player;
 import com.artbender.model.stats.PlayerStats;
 import com.artbender.model.stats.TeamStats;
 import com.artbender.service.engine.action.Action;
-import com.artbender.service.engine.action.calculator.substitution.SubstitutionService;
 import com.artbender.service.engine.action.support.GameAction;
 import com.artbender.service.engine.action.support.Schema;
 import com.artbender.service.engine.context.GameContext;
 import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Service;
 
@@ -22,12 +20,6 @@ import java.util.Map;
 @Service
 @Order(15)
 public class UpdateStatsAndFatigueAction implements Action {
-    private SubstitutionService substitutionService;
-
-    @Autowired
-    public UpdateStatsAndFatigueAction(SubstitutionService substitutionService) {
-        this.substitutionService = substitutionService;
-    }
 
     @Override
     public boolean isValidPreExecuteAction(GameContext gameContext) {
@@ -49,14 +41,11 @@ public class UpdateStatsAndFatigueAction implements Action {
 
         gameContext.getActionParams().setHomeStats(updateTeamStats(playersHome, gameContext.getActionParams().getHomeStats().getTimeouts()));
         gameContext.getActionParams().setAwayStats(updateTeamStats(playersAway, gameContext.getActionParams().getAwayStats().getTimeouts()));
-
-        substitutionService.execute(playersHome, gameContext.getActionParams().getHomeCoach().getCoachGamePlan().getSubstitutionRating());
-        substitutionService.execute(playersAway, gameContext.getActionParams().getAwayCoach().getCoachGamePlan().getSubstitutionRating());
     }
 
     @Override
     public void postExecuteAction(GameContext gameContext) {
-        gameContext.setCurrentAction(GameAction.RESULT);
+        gameContext.setCurrentAction(GameAction.AUTO_SUBSTITUTION);
     }
 
     private void update(GameContext gameContext, List<Player> players, Map<Player, List<GameAction>> statsMaps, Integer range) {

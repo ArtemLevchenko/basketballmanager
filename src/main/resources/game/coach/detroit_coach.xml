@@ -11,7 +11,7 @@
         <coachGamePlan>
             <insideOutside>BALANCE</insideOutside>
             <offenseDefense>DEFENSIVE</offenseDefense>
-            <substitutionRating>0%</substitutionRating>
+            <substitutionRating>ZERO</substitutionRating>
         </coachGamePlan>
     </coach>
 
