@@ -51,9 +51,9 @@ public class GameOrchestratorImpl implements GameOrchestrator {
         return GlobalGameResponse.builder()
                 .homePlayers(gameTransformDataService.buildPlayerResponseDto(gameContext.getActionParams().getHomePlayers()))
                 .awayPlayers(gameTransformDataService.buildPlayerResponseDto(gameContext.getActionParams().getAwayPlayers()))
-                .homeTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getHomePlayers().get(0).getTeam().getName(),
+                .homeTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getHomePlayers().get(0).getTeam().getShortName(),
                         gameContext.getActionParams().getHomeStats()))
-                .awayTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getAwayPlayers().get(0).getTeam().getName(),
+                .awayTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getAwayPlayers().get(0).getTeam().getShortName(),
                         gameContext.getActionParams().getAwayStats()))
                 .gameEvent(gameTransformDataService.buildGameEvent(gameContext.getGameClock(), gameContext.getActionGameEventListener().getOnBall(), gameContext.getGameMessageTray().getActiveMessage()))
                 .build();
@@ -66,9 +66,9 @@ public class GameOrchestratorImpl implements GameOrchestrator {
         return GlobalGameResponse.builder()
                 .homePlayers(gameTransformDataService.buildPlayerResponseDto(gameContext.getActionParams().getHomePlayers()))
                 .awayPlayers(gameTransformDataService.buildPlayerResponseDto(gameContext.getActionParams().getAwayPlayers()))
-                .homeTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getHomePlayers().get(0).getTeam().getName(),
+                .homeTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getHomePlayers().get(0).getTeam().getShortName(),
                         gameContext.getActionParams().getHomeStats()))
-                .awayTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getAwayPlayers().get(0).getTeam().getName(),
+                .awayTeam(gameTransformDataService.buildTeamResponseDto(gameContext.getActionParams().getAwayPlayers().get(0).getTeam().getShortName(),
                         gameContext.getActionParams().getAwayStats()))
                 .gameEvent(gameTransformDataService.buildGameEvent(gameContext.getGameClock(), gameContext.getActionGameEventListener().getOnBall(), gameContext.getGameMessageTray().getActiveMessage()))
                 .homeCoach(gameTransformDataService.buildCoachInfo(gameContext.getActionParams().getHomeCoach()))

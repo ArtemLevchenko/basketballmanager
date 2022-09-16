@@ -29,6 +29,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -76,6 +77,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -123,6 +125,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -170,6 +173,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <skills>
             <iq>A</iq>
@@ -217,6 +221,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -265,6 +270,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -313,6 +319,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -361,6 +368,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -409,6 +417,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>
@@ -457,6 +466,7 @@
         <team>
             <id>8</id>
             <name>Los Angeles</name>
+            <shortName>LAL</shortName>
         </team>
         <!-- -->
         <skills>

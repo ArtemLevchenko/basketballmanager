@@ -14,6 +14,8 @@ public class Team implements Serializable {
     private int id;
     @XmlElement
     private String name;
+    @XmlElement
+    private String shortName;
 
     public Team() {
     }
@@ -34,5 +36,11 @@ public class Team implements Serializable {
         this.name = name;
     }
 
+    public String getShortName() {
+        return shortName;
+    }
 
+    public void setShortName(String shortName) {
+        this.shortName = shortName;
+    }
 }

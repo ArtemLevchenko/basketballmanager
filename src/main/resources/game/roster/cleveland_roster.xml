@@ -29,6 +29,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -77,6 +78,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -124,6 +126,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -171,6 +174,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -218,6 +222,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -265,6 +270,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -314,6 +320,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -361,6 +368,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -409,6 +417,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
@@ -456,6 +465,7 @@
         <team>
             <id>1</id>
             <name>Cleveland</name>
+            <shortName>CLE</shortName>
         </team>
         <!-- -->
         <skills>
