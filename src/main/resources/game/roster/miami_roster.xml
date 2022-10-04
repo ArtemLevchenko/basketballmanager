@@ -190,10 +190,10 @@
         </skills>
         <!-- -->
         <playerGamePlan>
-            <insideOutside>INSIDE</insideOutside>
-            <offenseDefense>OFFENSIVE</offenseDefense>
+            <insideOutside>BALANCE</insideOutside>
+            <offenseDefense>BALANCE</offenseDefense>
             <reboundAssist>BALANCE</reboundAssist>
-            <screenOpening>OPENING</screenOpening>
+            <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
     </player>
 
@@ -241,7 +241,7 @@
         <playerGamePlan>
             <insideOutside>THREEPT</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
-            <reboundAssist>ASSIST</reboundAssist>
+            <reboundAssist>BALANCE</reboundAssist>
             <screenOpening>OPENING</screenOpening>
         </playerGamePlan>
     </player>
@@ -388,7 +388,7 @@
         <playerGamePlan>
             <insideOutside>BALANCE</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
-            <reboundAssist>ASSIST</reboundAssist>
+            <reboundAssist>BALANCE</reboundAssist>
             <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
     </player>
@@ -485,7 +485,7 @@
         <!-- -->
         <playerGamePlan>
             <insideOutside>THREEPT</insideOutside>
-            <offenseDefense>OFFENSIVE</offenseDefense>
+            <offenseDefense>BALANCE</offenseDefense>
             <reboundAssist>BALANCE</reboundAssist>
             <screenOpening>OPENING</screenOpening>
         </playerGamePlan>

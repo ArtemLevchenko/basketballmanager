@@ -44,8 +44,8 @@
         <!-- -->
         <playerGamePlan>
             <insideOutside>BALANCE</insideOutside>
-            <offenseDefense>OFFENSIVE</offenseDefense>
-            <reboundAssist>BALANCE</reboundAssist>
+            <offenseDefense>BALANCE</offenseDefense>
+            <reboundAssist>REBOUND</reboundAssist>
             <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
     </player>
@@ -141,7 +141,7 @@
         <playerGamePlan>
             <insideOutside>BALANCE</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
-            <reboundAssist>BALANCE</reboundAssist>
+            <reboundAssist>REBOUND</reboundAssist>
             <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
     </player>
@@ -188,7 +188,7 @@
         <playerGamePlan>
             <insideOutside>BALANCE</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
-            <reboundAssist>BALANCE</reboundAssist>
+            <reboundAssist>REBOUND</reboundAssist>
             <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
     </player>
@@ -335,7 +335,7 @@
         <playerGamePlan>
             <insideOutside>BALANCE</insideOutside>
             <offenseDefense>BALANCE</offenseDefense>
-            <reboundAssist>BALANCE</reboundAssist>
+            <reboundAssist>REBOUND</reboundAssist>
             <screenOpening>BALANCE</screenOpening>
         </playerGamePlan>
     </player>
